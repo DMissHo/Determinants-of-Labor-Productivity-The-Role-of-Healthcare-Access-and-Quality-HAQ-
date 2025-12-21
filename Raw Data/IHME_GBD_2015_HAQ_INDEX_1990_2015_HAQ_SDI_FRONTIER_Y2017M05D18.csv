@@ -1,0 +1,1345 @@
+"location_id","location_name","year_id","measure","val"
+1,"Global",1990,"Healthcare Access and Quality Index frontier",61.9
+1,"Global",1995,"Healthcare Access and Quality Index frontier",64.5
+1,"Global",2000,"Healthcare Access and Quality Index frontier",67.2
+1,"Global",2005,"Healthcare Access and Quality Index frontier",70
+1,"Global",2010,"Healthcare Access and Quality Index frontier",72.4
+1,"Global",2015,"Healthcare Access and Quality Index frontier",73.8
+4,"Southeast Asia, East Asia, and Oceania",1990,"Healthcare Access and Quality Index frontier",57.6
+4,"Southeast Asia, East Asia, and Oceania",1995,"Healthcare Access and Quality Index frontier",63
+4,"Southeast Asia, East Asia, and Oceania",2000,"Healthcare Access and Quality Index frontier",67.2
+4,"Southeast Asia, East Asia, and Oceania",2005,"Healthcare Access and Quality Index frontier",71
+4,"Southeast Asia, East Asia, and Oceania",2010,"Healthcare Access and Quality Index frontier",73.6
+4,"Southeast Asia, East Asia, and Oceania",2015,"Healthcare Access and Quality Index frontier",75
+5,"East Asia",1990,"Healthcare Access and Quality Index frontier",57.1
+5,"East Asia",1995,"Healthcare Access and Quality Index frontier",63.1
+5,"East Asia",2000,"Healthcare Access and Quality Index frontier",67.8
+5,"East Asia",2005,"Healthcare Access and Quality Index frontier",71.7
+5,"East Asia",2010,"Healthcare Access and Quality Index frontier",74
+5,"East Asia",2015,"Healthcare Access and Quality Index frontier",75.4
+6,"China",1990,"Healthcare Access and Quality Index frontier",56.2
+6,"China",1995,"Healthcare Access and Quality Index frontier",62.7
+6,"China",2000,"Healthcare Access and Quality Index frontier",67.3
+6,"China",2005,"Healthcare Access and Quality Index frontier",71.5
+6,"China",2010,"Healthcare Access and Quality Index frontier",73.9
+6,"China",2015,"Healthcare Access and Quality Index frontier",75.4
+7,"North Korea",1990,"Healthcare Access and Quality Index frontier",70.6
+7,"North Korea",1995,"Healthcare Access and Quality Index frontier",71.1
+7,"North Korea",2000,"Healthcare Access and Quality Index frontier",68.5
+7,"North Korea",2005,"Healthcare Access and Quality Index frontier",67.1
+7,"North Korea",2010,"Healthcare Access and Quality Index frontier",68.1
+7,"North Korea",2015,"Healthcare Access and Quality Index frontier",69.1
+8,"Taiwan",1990,"Healthcare Access and Quality Index frontier",76.8
+8,"Taiwan",1995,"Healthcare Access and Quality Index frontier",79.8
+8,"Taiwan",2000,"Healthcare Access and Quality Index frontier",82.6
+8,"Taiwan",2005,"Healthcare Access and Quality Index frontier",85.7
+8,"Taiwan",2010,"Healthcare Access and Quality Index frontier",87.5
+8,"Taiwan",2015,"Healthcare Access and Quality Index frontier",88.6
+9,"Southeast Asia",1990,"Healthcare Access and Quality Index frontier",59
+9,"Southeast Asia",1995,"Healthcare Access and Quality Index frontier",62.9
+9,"Southeast Asia",2000,"Healthcare Access and Quality Index frontier",66.2
+9,"Southeast Asia",2005,"Healthcare Access and Quality Index frontier",69.5
+9,"Southeast Asia",2010,"Healthcare Access and Quality Index frontier",72.4
+9,"Southeast Asia",2015,"Healthcare Access and Quality Index frontier",74
+10,"Cambodia",1990,"Healthcare Access and Quality Index frontier",45.4
+10,"Cambodia",1995,"Healthcare Access and Quality Index frontier",47.3
+10,"Cambodia",2000,"Healthcare Access and Quality Index frontier",49
+10,"Cambodia",2005,"Healthcare Access and Quality Index frontier",51.6
+10,"Cambodia",2010,"Healthcare Access and Quality Index frontier",57.7
+10,"Cambodia",2015,"Healthcare Access and Quality Index frontier",62.3
+11,"Indonesia",1990,"Healthcare Access and Quality Index frontier",60.6
+11,"Indonesia",1995,"Healthcare Access and Quality Index frontier",65
+11,"Indonesia",2000,"Healthcare Access and Quality Index frontier",68.7
+11,"Indonesia",2005,"Healthcare Access and Quality Index frontier",70.8
+11,"Indonesia",2010,"Healthcare Access and Quality Index frontier",72.9
+11,"Indonesia",2015,"Healthcare Access and Quality Index frontier",74.4
+12,"Laos",1990,"Healthcare Access and Quality Index frontier",46.3
+12,"Laos",1995,"Healthcare Access and Quality Index frontier",48.3
+12,"Laos",2000,"Healthcare Access and Quality Index frontier",50.2
+12,"Laos",2005,"Healthcare Access and Quality Index frontier",54.1
+12,"Laos",2010,"Healthcare Access and Quality Index frontier",59.7
+12,"Laos",2015,"Healthcare Access and Quality Index frontier",63.9
+13,"Malaysia",1990,"Healthcare Access and Quality Index frontier",69.3
+13,"Malaysia",1995,"Healthcare Access and Quality Index frontier",72.4
+13,"Malaysia",2000,"Healthcare Access and Quality Index frontier",74.6
+13,"Malaysia",2005,"Healthcare Access and Quality Index frontier",76.7
+13,"Malaysia",2010,"Healthcare Access and Quality Index frontier",79.3
+13,"Malaysia",2015,"Healthcare Access and Quality Index frontier",81.5
+14,"Maldives",1990,"Healthcare Access and Quality Index frontier",50.1
+14,"Maldives",1995,"Healthcare Access and Quality Index frontier",57.2
+14,"Maldives",2000,"Healthcare Access and Quality Index frontier",63.4
+14,"Maldives",2005,"Healthcare Access and Quality Index frontier",68.1
+14,"Maldives",2010,"Healthcare Access and Quality Index frontier",71.5
+14,"Maldives",2015,"Healthcare Access and Quality Index frontier",73.2
+15,"Myanmar",1990,"Healthcare Access and Quality Index frontier",45.8
+15,"Myanmar",1995,"Healthcare Access and Quality Index frontier",46.8
+15,"Myanmar",2000,"Healthcare Access and Quality Index frontier",48.9
+15,"Myanmar",2005,"Healthcare Access and Quality Index frontier",53.1
+15,"Myanmar",2010,"Healthcare Access and Quality Index frontier",60.8
+15,"Myanmar",2015,"Healthcare Access and Quality Index frontier",64.9
+16,"Philippines",1990,"Healthcare Access and Quality Index frontier",63.8
+16,"Philippines",1995,"Healthcare Access and Quality Index frontier",65.9
+16,"Philippines",2000,"Healthcare Access and Quality Index frontier",68.2
+16,"Philippines",2005,"Healthcare Access and Quality Index frontier",70.5
+16,"Philippines",2010,"Healthcare Access and Quality Index frontier",72.6
+16,"Philippines",2015,"Healthcare Access and Quality Index frontier",74.1
+17,"Sri Lanka",1990,"Healthcare Access and Quality Index frontier",66.3
+17,"Sri Lanka",1995,"Healthcare Access and Quality Index frontier",69.4
+17,"Sri Lanka",2000,"Healthcare Access and Quality Index frontier",72.1
+17,"Sri Lanka",2005,"Healthcare Access and Quality Index frontier",73.5
+17,"Sri Lanka",2010,"Healthcare Access and Quality Index frontier",74.8
+17,"Sri Lanka",2015,"Healthcare Access and Quality Index frontier",76.8
+18,"Thailand",1990,"Healthcare Access and Quality Index frontier",66.5
+18,"Thailand",1995,"Healthcare Access and Quality Index frontier",71
+18,"Thailand",2000,"Healthcare Access and Quality Index frontier",72.9
+18,"Thailand",2005,"Healthcare Access and Quality Index frontier",74.1
+18,"Thailand",2010,"Healthcare Access and Quality Index frontier",75.2
+18,"Thailand",2015,"Healthcare Access and Quality Index frontier",76.8
+19,"Timor-Leste",1990,"Healthcare Access and Quality Index frontier",46.6
+19,"Timor-Leste",1995,"Healthcare Access and Quality Index frontier",47.6
+19,"Timor-Leste",2000,"Healthcare Access and Quality Index frontier",45.3
+19,"Timor-Leste",2005,"Healthcare Access and Quality Index frontier",49
+19,"Timor-Leste",2010,"Healthcare Access and Quality Index frontier",54.4
+19,"Timor-Leste",2015,"Healthcare Access and Quality Index frontier",59.1
+20,"Vietnam",1990,"Healthcare Access and Quality Index frontier",52.2
+20,"Vietnam",1995,"Healthcare Access and Quality Index frontier",58.6
+20,"Vietnam",2000,"Healthcare Access and Quality Index frontier",63.7
+20,"Vietnam",2005,"Healthcare Access and Quality Index frontier",67.6
+20,"Vietnam",2010,"Healthcare Access and Quality Index frontier",71.4
+20,"Vietnam",2015,"Healthcare Access and Quality Index frontier",73.5
+21,"Oceania",1990,"Healthcare Access and Quality Index frontier",51.3
+21,"Oceania",1995,"Healthcare Access and Quality Index frontier",53.7
+21,"Oceania",2000,"Healthcare Access and Quality Index frontier",56
+21,"Oceania",2005,"Healthcare Access and Quality Index frontier",57.5
+21,"Oceania",2010,"Healthcare Access and Quality Index frontier",60
+21,"Oceania",2015,"Healthcare Access and Quality Index frontier",62.9
+22,"Fiji",1990,"Healthcare Access and Quality Index frontier",69.2
+22,"Fiji",1995,"Healthcare Access and Quality Index frontier",71.6
+22,"Fiji",2000,"Healthcare Access and Quality Index frontier",73.1
+22,"Fiji",2005,"Healthcare Access and Quality Index frontier",74.1
+22,"Fiji",2010,"Healthcare Access and Quality Index frontier",75.1
+22,"Fiji",2015,"Healthcare Access and Quality Index frontier",76.1
+23,"Kiribati",1990,"Healthcare Access and Quality Index frontier",53.3
+23,"Kiribati",1995,"Healthcare Access and Quality Index frontier",54.2
+23,"Kiribati",2000,"Healthcare Access and Quality Index frontier",57
+23,"Kiribati",2005,"Healthcare Access and Quality Index frontier",59.5
+23,"Kiribati",2010,"Healthcare Access and Quality Index frontier",60.6
+23,"Kiribati",2015,"Healthcare Access and Quality Index frontier",61.7
+24,"Marshall Islands",1990,"Healthcare Access and Quality Index frontier",56.8
+24,"Marshall Islands",1995,"Healthcare Access and Quality Index frontier",61.8
+24,"Marshall Islands",2000,"Healthcare Access and Quality Index frontier",63
+24,"Marshall Islands",2005,"Healthcare Access and Quality Index frontier",65.1
+24,"Marshall Islands",2010,"Healthcare Access and Quality Index frontier",68.2
+24,"Marshall Islands",2015,"Healthcare Access and Quality Index frontier",71.4
+25,"Federated States of Micronesia",1990,"Healthcare Access and Quality Index frontier",62.5
+25,"Federated States of Micronesia",1995,"Healthcare Access and Quality Index frontier",64.8
+25,"Federated States of Micronesia",2000,"Healthcare Access and Quality Index frontier",67.5
+25,"Federated States of Micronesia",2005,"Healthcare Access and Quality Index frontier",70.4
+25,"Federated States of Micronesia",2010,"Healthcare Access and Quality Index frontier",72.2
+25,"Federated States of Micronesia",2015,"Healthcare Access and Quality Index frontier",73.3
+26,"Papua New Guinea",1990,"Healthcare Access and Quality Index frontier",48.7
+26,"Papua New Guinea",1995,"Healthcare Access and Quality Index frontier",49.7
+26,"Papua New Guinea",2000,"Healthcare Access and Quality Index frontier",50.7
+26,"Papua New Guinea",2005,"Healthcare Access and Quality Index frontier",51.5
+26,"Papua New Guinea",2010,"Healthcare Access and Quality Index frontier",53.9
+26,"Papua New Guinea",2015,"Healthcare Access and Quality Index frontier",58.8
+27,"Samoa",1990,"Healthcare Access and Quality Index frontier",63.4
+27,"Samoa",1995,"Healthcare Access and Quality Index frontier",65.8
+27,"Samoa",2000,"Healthcare Access and Quality Index frontier",68.2
+27,"Samoa",2005,"Healthcare Access and Quality Index frontier",71
+27,"Samoa",2010,"Healthcare Access and Quality Index frontier",72.7
+27,"Samoa",2015,"Healthcare Access and Quality Index frontier",73.8
+28,"Solomon Islands",1990,"Healthcare Access and Quality Index frontier",48.5
+28,"Solomon Islands",1995,"Healthcare Access and Quality Index frontier",50.2
+28,"Solomon Islands",2000,"Healthcare Access and Quality Index frontier",52.5
+28,"Solomon Islands",2005,"Healthcare Access and Quality Index frontier",52.8
+28,"Solomon Islands",2010,"Healthcare Access and Quality Index frontier",55.8
+28,"Solomon Islands",2015,"Healthcare Access and Quality Index frontier",60.2
+29,"Tonga",1990,"Healthcare Access and Quality Index frontier",63.8
+29,"Tonga",1995,"Healthcare Access and Quality Index frontier",65.9
+29,"Tonga",2000,"Healthcare Access and Quality Index frontier",68
+29,"Tonga",2005,"Healthcare Access and Quality Index frontier",70.5
+29,"Tonga",2010,"Healthcare Access and Quality Index frontier",72.3
+29,"Tonga",2015,"Healthcare Access and Quality Index frontier",73.2
+30,"Vanuatu",1990,"Healthcare Access and Quality Index frontier",52.8
+30,"Vanuatu",1995,"Healthcare Access and Quality Index frontier",55.7
+30,"Vanuatu",2000,"Healthcare Access and Quality Index frontier",59.2
+30,"Vanuatu",2005,"Healthcare Access and Quality Index frontier",61.8
+30,"Vanuatu",2010,"Healthcare Access and Quality Index frontier",64.3
+30,"Vanuatu",2015,"Healthcare Access and Quality Index frontier",66.4
+31,"Central Europe, Eastern Europe, and Central Asia",1990,"Healthcare Access and Quality Index frontier",76.7
+31,"Central Europe, Eastern Europe, and Central Asia",1995,"Healthcare Access and Quality Index frontier",77.8
+31,"Central Europe, Eastern Europe, and Central Asia",2000,"Healthcare Access and Quality Index frontier",78.5
+31,"Central Europe, Eastern Europe, and Central Asia",2005,"Healthcare Access and Quality Index frontier",80.6
+31,"Central Europe, Eastern Europe, and Central Asia",2010,"Healthcare Access and Quality Index frontier",83.4
+31,"Central Europe, Eastern Europe, and Central Asia",2015,"Healthcare Access and Quality Index frontier",85.3
+32,"Central Asia",1990,"Healthcare Access and Quality Index frontier",72.3
+32,"Central Asia",1995,"Healthcare Access and Quality Index frontier",72.8
+32,"Central Asia",2000,"Healthcare Access and Quality Index frontier",72.9
+32,"Central Asia",2005,"Healthcare Access and Quality Index frontier",74.2
+32,"Central Asia",2010,"Healthcare Access and Quality Index frontier",75.9
+32,"Central Asia",2015,"Healthcare Access and Quality Index frontier",78.2
+33,"Armenia",1990,"Healthcare Access and Quality Index frontier",71.7
+33,"Armenia",1995,"Healthcare Access and Quality Index frontier",71.3
+33,"Armenia",2000,"Healthcare Access and Quality Index frontier",72.3
+33,"Armenia",2005,"Healthcare Access and Quality Index frontier",74.7
+33,"Armenia",2010,"Healthcare Access and Quality Index frontier",77.6
+33,"Armenia",2015,"Healthcare Access and Quality Index frontier",80.6
+34,"Azerbaijan",1990,"Healthcare Access and Quality Index frontier",74
+34,"Azerbaijan",1995,"Healthcare Access and Quality Index frontier",74.3
+34,"Azerbaijan",2000,"Healthcare Access and Quality Index frontier",73.9
+34,"Azerbaijan",2005,"Healthcare Access and Quality Index frontier",75.2
+34,"Azerbaijan",2010,"Healthcare Access and Quality Index frontier",80.1
+34,"Azerbaijan",2015,"Healthcare Access and Quality Index frontier",83.3
+35,"Georgia",1990,"Healthcare Access and Quality Index frontier",76.1
+35,"Georgia",1995,"Healthcare Access and Quality Index frontier",74.9
+35,"Georgia",2000,"Healthcare Access and Quality Index frontier",74
+35,"Georgia",2005,"Healthcare Access and Quality Index frontier",75.6
+35,"Georgia",2010,"Healthcare Access and Quality Index frontier",78.3
+35,"Georgia",2015,"Healthcare Access and Quality Index frontier",81.1
+36,"Kazakhstan",1990,"Healthcare Access and Quality Index frontier",75.5
+36,"Kazakhstan",1995,"Healthcare Access and Quality Index frontier",76.7
+36,"Kazakhstan",2000,"Healthcare Access and Quality Index frontier",77.5
+36,"Kazakhstan",2005,"Healthcare Access and Quality Index frontier",79.6
+36,"Kazakhstan",2010,"Healthcare Access and Quality Index frontier",82.2
+36,"Kazakhstan",2015,"Healthcare Access and Quality Index frontier",84.7
+37,"Kyrgyzstan",1990,"Healthcare Access and Quality Index frontier",71.5
+37,"Kyrgyzstan",1995,"Healthcare Access and Quality Index frontier",71.7
+37,"Kyrgyzstan",2000,"Healthcare Access and Quality Index frontier",70.9
+37,"Kyrgyzstan",2005,"Healthcare Access and Quality Index frontier",71.7
+37,"Kyrgyzstan",2010,"Healthcare Access and Quality Index frontier",72.6
+37,"Kyrgyzstan",2015,"Healthcare Access and Quality Index frontier",73.6
+38,"Mongolia",1990,"Healthcare Access and Quality Index frontier",64.4
+38,"Mongolia",1995,"Healthcare Access and Quality Index frontier",68.7
+38,"Mongolia",2000,"Healthcare Access and Quality Index frontier",71.6
+38,"Mongolia",2005,"Healthcare Access and Quality Index frontier",73.5
+38,"Mongolia",2010,"Healthcare Access and Quality Index frontier",74.8
+38,"Mongolia",2015,"Healthcare Access and Quality Index frontier",76.8
+39,"Tajikistan",1990,"Healthcare Access and Quality Index frontier",63.8
+39,"Tajikistan",1995,"Healthcare Access and Quality Index frontier",63.5
+39,"Tajikistan",2000,"Healthcare Access and Quality Index frontier",60.5
+39,"Tajikistan",2005,"Healthcare Access and Quality Index frontier",63.1
+39,"Tajikistan",2010,"Healthcare Access and Quality Index frontier",66.7
+39,"Tajikistan",2015,"Healthcare Access and Quality Index frontier",70
+40,"Turkmenistan",1990,"Healthcare Access and Quality Index frontier",71.7
+40,"Turkmenistan",1995,"Healthcare Access and Quality Index frontier",73.4
+40,"Turkmenistan",2000,"Healthcare Access and Quality Index frontier",73.9
+40,"Turkmenistan",2005,"Healthcare Access and Quality Index frontier",75.4
+40,"Turkmenistan",2010,"Healthcare Access and Quality Index frontier",79
+40,"Turkmenistan",2015,"Healthcare Access and Quality Index frontier",82.6
+41,"Uzbekistan",1990,"Healthcare Access and Quality Index frontier",67.1
+41,"Uzbekistan",1995,"Healthcare Access and Quality Index frontier",69.3
+41,"Uzbekistan",2000,"Healthcare Access and Quality Index frontier",71.3
+41,"Uzbekistan",2005,"Healthcare Access and Quality Index frontier",73
+41,"Uzbekistan",2010,"Healthcare Access and Quality Index frontier",74.6
+41,"Uzbekistan",2015,"Healthcare Access and Quality Index frontier",76.5
+42,"Central Europe",1990,"Healthcare Access and Quality Index frontier",76.2
+42,"Central Europe",1995,"Healthcare Access and Quality Index frontier",77.4
+42,"Central Europe",2000,"Healthcare Access and Quality Index frontier",79.9
+42,"Central Europe",2005,"Healthcare Access and Quality Index frontier",82.3
+42,"Central Europe",2010,"Healthcare Access and Quality Index frontier",84.6
+42,"Central Europe",2015,"Healthcare Access and Quality Index frontier",86.4
+43,"Albania",1990,"Healthcare Access and Quality Index frontier",69.7
+43,"Albania",1995,"Healthcare Access and Quality Index frontier",70
+43,"Albania",2000,"Healthcare Access and Quality Index frontier",72.9
+43,"Albania",2005,"Healthcare Access and Quality Index frontier",75
+43,"Albania",2010,"Healthcare Access and Quality Index frontier",77
+43,"Albania",2015,"Healthcare Access and Quality Index frontier",79.1
+44,"Bosnia and Herzegovina",1990,"Healthcare Access and Quality Index frontier",62.5
+44,"Bosnia and Herzegovina",1995,"Healthcare Access and Quality Index frontier",63.6
+44,"Bosnia and Herzegovina",2000,"Healthcare Access and Quality Index frontier",73.2
+44,"Bosnia and Herzegovina",2005,"Healthcare Access and Quality Index frontier",75.4
+44,"Bosnia and Herzegovina",2010,"Healthcare Access and Quality Index frontier",77.4
+44,"Bosnia and Herzegovina",2015,"Healthcare Access and Quality Index frontier",79.3
+45,"Bulgaria",1990,"Healthcare Access and Quality Index frontier",76.6
+45,"Bulgaria",1995,"Healthcare Access and Quality Index frontier",77.7
+45,"Bulgaria",2000,"Healthcare Access and Quality Index frontier",78.6
+45,"Bulgaria",2005,"Healthcare Access and Quality Index frontier",80.4
+45,"Bulgaria",2010,"Healthcare Access and Quality Index frontier",82.9
+45,"Bulgaria",2015,"Healthcare Access and Quality Index frontier",84.8
+46,"Croatia",1990,"Healthcare Access and Quality Index frontier",75
+46,"Croatia",1995,"Healthcare Access and Quality Index frontier",75.2
+46,"Croatia",2000,"Healthcare Access and Quality Index frontier",76.5
+46,"Croatia",2005,"Healthcare Access and Quality Index frontier",79
+46,"Croatia",2010,"Healthcare Access and Quality Index frontier",81.3
+46,"Croatia",2015,"Healthcare Access and Quality Index frontier",82.9
+47,"Czech Republic",1990,"Healthcare Access and Quality Index frontier",83
+47,"Czech Republic",1995,"Healthcare Access and Quality Index frontier",85
+47,"Czech Republic",2000,"Healthcare Access and Quality Index frontier",86.9
+47,"Czech Republic",2005,"Healthcare Access and Quality Index frontier",88
+47,"Czech Republic",2010,"Healthcare Access and Quality Index frontier",89.3
+47,"Czech Republic",2015,"Healthcare Access and Quality Index frontier",90.2
+48,"Hungary",1990,"Healthcare Access and Quality Index frontier",78.4
+48,"Hungary",1995,"Healthcare Access and Quality Index frontier",79.8
+48,"Hungary",2000,"Healthcare Access and Quality Index frontier",82
+48,"Hungary",2005,"Healthcare Access and Quality Index frontier",84.3
+48,"Hungary",2010,"Healthcare Access and Quality Index frontier",86.1
+48,"Hungary",2015,"Healthcare Access and Quality Index frontier",87.6
+49,"Macedonia",1990,"Healthcare Access and Quality Index frontier",74.1
+49,"Macedonia",1995,"Healthcare Access and Quality Index frontier",74.6
+49,"Macedonia",2000,"Healthcare Access and Quality Index frontier",75.3
+49,"Macedonia",2005,"Healthcare Access and Quality Index frontier",76.9
+49,"Macedonia",2010,"Healthcare Access and Quality Index frontier",79.3
+49,"Macedonia",2015,"Healthcare Access and Quality Index frontier",81.1
+50,"Montenegro",1990,"Healthcare Access and Quality Index frontier",75.8
+50,"Montenegro",1995,"Healthcare Access and Quality Index frontier",75.8
+50,"Montenegro",2000,"Healthcare Access and Quality Index frontier",76.8
+50,"Montenegro",2005,"Healthcare Access and Quality Index frontier",79
+50,"Montenegro",2010,"Healthcare Access and Quality Index frontier",82
+50,"Montenegro",2015,"Healthcare Access and Quality Index frontier",84
+51,"Poland",1990,"Healthcare Access and Quality Index frontier",76.8
+51,"Poland",1995,"Healthcare Access and Quality Index frontier",79
+51,"Poland",2000,"Healthcare Access and Quality Index frontier",82.6
+51,"Poland",2005,"Healthcare Access and Quality Index frontier",84.8
+51,"Poland",2010,"Healthcare Access and Quality Index frontier",86.7
+51,"Poland",2015,"Healthcare Access and Quality Index frontier",88.8
+52,"Romania",1990,"Healthcare Access and Quality Index frontier",76.1
+52,"Romania",1995,"Healthcare Access and Quality Index frontier",76.7
+52,"Romania",2000,"Healthcare Access and Quality Index frontier",77.5
+52,"Romania",2005,"Healthcare Access and Quality Index frontier",79.4
+52,"Romania",2010,"Healthcare Access and Quality Index frontier",82.2
+52,"Romania",2015,"Healthcare Access and Quality Index frontier",84
+53,"Serbia",1990,"Healthcare Access and Quality Index frontier",74.4
+53,"Serbia",1995,"Healthcare Access and Quality Index frontier",74.6
+53,"Serbia",2000,"Healthcare Access and Quality Index frontier",75.1
+53,"Serbia",2005,"Healthcare Access and Quality Index frontier",77.4
+53,"Serbia",2010,"Healthcare Access and Quality Index frontier",80.1
+53,"Serbia",2015,"Healthcare Access and Quality Index frontier",81.9
+54,"Slovakia",1990,"Healthcare Access and Quality Index frontier",77.3
+54,"Slovakia",1995,"Healthcare Access and Quality Index frontier",79.3
+54,"Slovakia",2000,"Healthcare Access and Quality Index frontier",82
+54,"Slovakia",2005,"Healthcare Access and Quality Index frontier",84.3
+54,"Slovakia",2010,"Healthcare Access and Quality Index frontier",86.7
+54,"Slovakia",2015,"Healthcare Access and Quality Index frontier",88.5
+55,"Slovenia",1990,"Healthcare Access and Quality Index frontier",80.4
+55,"Slovenia",1995,"Healthcare Access and Quality Index frontier",81.9
+55,"Slovenia",2000,"Healthcare Access and Quality Index frontier",84.1
+55,"Slovenia",2005,"Healthcare Access and Quality Index frontier",86
+55,"Slovenia",2010,"Healthcare Access and Quality Index frontier",87.4
+55,"Slovenia",2015,"Healthcare Access and Quality Index frontier",88
+56,"Eastern Europe",1990,"Healthcare Access and Quality Index frontier",79.4
+56,"Eastern Europe",1995,"Healthcare Access and Quality Index frontier",80.8
+56,"Eastern Europe",2000,"Healthcare Access and Quality Index frontier",80.7
+56,"Eastern Europe",2005,"Healthcare Access and Quality Index frontier",82.9
+56,"Eastern Europe",2010,"Healthcare Access and Quality Index frontier",85.5
+56,"Eastern Europe",2015,"Healthcare Access and Quality Index frontier",87.2
+57,"Belarus",1990,"Healthcare Access and Quality Index frontier",75.8
+57,"Belarus",1995,"Healthcare Access and Quality Index frontier",76.8
+57,"Belarus",2000,"Healthcare Access and Quality Index frontier",77.9
+57,"Belarus",2005,"Healthcare Access and Quality Index frontier",81
+57,"Belarus",2010,"Healthcare Access and Quality Index frontier",84.8
+57,"Belarus",2015,"Healthcare Access and Quality Index frontier",87.4
+58,"Estonia",1990,"Healthcare Access and Quality Index frontier",77.3
+58,"Estonia",1995,"Healthcare Access and Quality Index frontier",79
+58,"Estonia",2000,"Healthcare Access and Quality Index frontier",81.2
+58,"Estonia",2005,"Healthcare Access and Quality Index frontier",84
+58,"Estonia",2010,"Healthcare Access and Quality Index frontier",86.4
+58,"Estonia",2015,"Healthcare Access and Quality Index frontier",88.3
+59,"Latvia",1990,"Healthcare Access and Quality Index frontier",79
+59,"Latvia",1995,"Healthcare Access and Quality Index frontier",79.7
+59,"Latvia",2000,"Healthcare Access and Quality Index frontier",81
+59,"Latvia",2005,"Healthcare Access and Quality Index frontier",83.8
+59,"Latvia",2010,"Healthcare Access and Quality Index frontier",86.5
+59,"Latvia",2015,"Healthcare Access and Quality Index frontier",88.4
+60,"Lithuania",1990,"Healthcare Access and Quality Index frontier",77.6
+60,"Lithuania",1995,"Healthcare Access and Quality Index frontier",78.3
+60,"Lithuania",2000,"Healthcare Access and Quality Index frontier",79.7
+60,"Lithuania",2005,"Healthcare Access and Quality Index frontier",82.9
+60,"Lithuania",2010,"Healthcare Access and Quality Index frontier",85.3
+60,"Lithuania",2015,"Healthcare Access and Quality Index frontier",87
+61,"Moldova",1990,"Healthcare Access and Quality Index frontier",72.8
+61,"Moldova",1995,"Healthcare Access and Quality Index frontier",72.8
+61,"Moldova",2000,"Healthcare Access and Quality Index frontier",71.8
+61,"Moldova",2005,"Healthcare Access and Quality Index frontier",73.4
+61,"Moldova",2010,"Healthcare Access and Quality Index frontier",74.9
+61,"Moldova",2015,"Healthcare Access and Quality Index frontier",76.7
+62,"Russia",1990,"Healthcare Access and Quality Index frontier",81.1
+62,"Russia",1995,"Healthcare Access and Quality Index frontier",82.6
+62,"Russia",2000,"Healthcare Access and Quality Index frontier",82.5
+62,"Russia",2005,"Healthcare Access and Quality Index frontier",84.3
+62,"Russia",2010,"Healthcare Access and Quality Index frontier",86.6
+62,"Russia",2015,"Healthcare Access and Quality Index frontier",88.1
+63,"Ukraine",1990,"Healthcare Access and Quality Index frontier",76.7
+63,"Ukraine",1995,"Healthcare Access and Quality Index frontier",77.7
+63,"Ukraine",2000,"Healthcare Access and Quality Index frontier",77.4
+63,"Ukraine",2005,"Healthcare Access and Quality Index frontier",79.7
+63,"Ukraine",2010,"Healthcare Access and Quality Index frontier",83.1
+63,"Ukraine",2015,"Healthcare Access and Quality Index frontier",85
+64,"High-income",1990,"Healthcare Access and Quality Index frontier",83.3
+64,"High-income",1995,"Healthcare Access and Quality Index frontier",85
+64,"High-income",2000,"Healthcare Access and Quality Index frontier",86.7
+64,"High-income",2005,"Healthcare Access and Quality Index frontier",87.9
+64,"High-income",2010,"Healthcare Access and Quality Index frontier",89
+64,"High-income",2015,"Healthcare Access and Quality Index frontier",90
+65,"High-income Asia Pacific",1990,"Healthcare Access and Quality Index frontier",82.6
+65,"High-income Asia Pacific",1995,"Healthcare Access and Quality Index frontier",85.1
+65,"High-income Asia Pacific",2000,"Healthcare Access and Quality Index frontier",87
+65,"High-income Asia Pacific",2005,"Healthcare Access and Quality Index frontier",88.3
+65,"High-income Asia Pacific",2010,"Healthcare Access and Quality Index frontier",89.3
+65,"High-income Asia Pacific",2015,"Healthcare Access and Quality Index frontier",90
+66,"Brunei",1990,"Healthcare Access and Quality Index frontier",83
+66,"Brunei",1995,"Healthcare Access and Quality Index frontier",85.8
+66,"Brunei",2000,"Healthcare Access and Quality Index frontier",89
+66,"Brunei",2005,"Healthcare Access and Quality Index frontier",90.2
+66,"Brunei",2010,"Healthcare Access and Quality Index frontier",90.8
+66,"Brunei",2015,"Healthcare Access and Quality Index frontier",91.3
+67,"Japan",1990,"Healthcare Access and Quality Index frontier",84.5
+67,"Japan",1995,"Healthcare Access and Quality Index frontier",86.7
+67,"Japan",2000,"Healthcare Access and Quality Index frontier",88.1
+67,"Japan",2005,"Healthcare Access and Quality Index frontier",89.1
+67,"Japan",2010,"Healthcare Access and Quality Index frontier",89.8
+67,"Japan",2015,"Healthcare Access and Quality Index frontier",90.4
+68,"South Korea",1990,"Healthcare Access and Quality Index frontier",77.3
+68,"South Korea",1995,"Healthcare Access and Quality Index frontier",80.6
+68,"South Korea",2000,"Healthcare Access and Quality Index frontier",84
+68,"South Korea",2005,"Healthcare Access and Quality Index frontier",86.4
+68,"South Korea",2010,"Healthcare Access and Quality Index frontier",87.9
+68,"South Korea",2015,"Healthcare Access and Quality Index frontier",89
+69,"Singapore",1990,"Healthcare Access and Quality Index frontier",77.3
+69,"Singapore",1995,"Healthcare Access and Quality Index frontier",80.8
+69,"Singapore",2000,"Healthcare Access and Quality Index frontier",83.7
+69,"Singapore",2005,"Healthcare Access and Quality Index frontier",86.7
+69,"Singapore",2010,"Healthcare Access and Quality Index frontier",88.6
+69,"Singapore",2015,"Healthcare Access and Quality Index frontier",89.6
+70,"Australasia",1990,"Healthcare Access and Quality Index frontier",84.5
+70,"Australasia",1995,"Healthcare Access and Quality Index frontier",86.1
+70,"Australasia",2000,"Healthcare Access and Quality Index frontier",87.9
+70,"Australasia",2005,"Healthcare Access and Quality Index frontier",89.1
+70,"Australasia",2010,"Healthcare Access and Quality Index frontier",90
+70,"Australasia",2015,"Healthcare Access and Quality Index frontier",90.8
+71,"Australia",1990,"Healthcare Access and Quality Index frontier",84.7
+71,"Australia",1995,"Healthcare Access and Quality Index frontier",86.3
+71,"Australia",2000,"Healthcare Access and Quality Index frontier",88.1
+71,"Australia",2005,"Healthcare Access and Quality Index frontier",89.3
+71,"Australia",2010,"Healthcare Access and Quality Index frontier",90.2
+71,"Australia",2015,"Healthcare Access and Quality Index frontier",91
+72,"New Zealand",1990,"Healthcare Access and Quality Index frontier",83.4
+72,"New Zealand",1995,"Healthcare Access and Quality Index frontier",85
+72,"New Zealand",2000,"Healthcare Access and Quality Index frontier",86.7
+72,"New Zealand",2005,"Healthcare Access and Quality Index frontier",87.9
+72,"New Zealand",2010,"Healthcare Access and Quality Index frontier",88.8
+72,"New Zealand",2015,"Healthcare Access and Quality Index frontier",89.9
+73,"Western Europe",1990,"Healthcare Access and Quality Index frontier",80.9
+73,"Western Europe",1995,"Healthcare Access and Quality Index frontier",83
+73,"Western Europe",2000,"Healthcare Access and Quality Index frontier",84.9
+73,"Western Europe",2005,"Healthcare Access and Quality Index frontier",86.4
+73,"Western Europe",2010,"Healthcare Access and Quality Index frontier",87.7
+73,"Western Europe",2015,"Healthcare Access and Quality Index frontier",88.8
+74,"Andorra",1990,"Healthcare Access and Quality Index frontier",85.8
+74,"Andorra",1995,"Healthcare Access and Quality Index frontier",87.2
+74,"Andorra",2000,"Healthcare Access and Quality Index frontier",88.4
+74,"Andorra",2005,"Healthcare Access and Quality Index frontier",89.6
+74,"Andorra",2010,"Healthcare Access and Quality Index frontier",90.4
+74,"Andorra",2015,"Healthcare Access and Quality Index frontier",91.2
+75,"Austria",1990,"Healthcare Access and Quality Index frontier",83.2
+75,"Austria",1995,"Healthcare Access and Quality Index frontier",84.8
+75,"Austria",2000,"Healthcare Access and Quality Index frontier",86.5
+75,"Austria",2005,"Healthcare Access and Quality Index frontier",88
+75,"Austria",2010,"Healthcare Access and Quality Index frontier",89.2
+75,"Austria",2015,"Healthcare Access and Quality Index frontier",90
+76,"Belgium",1990,"Healthcare Access and Quality Index frontier",82.6
+76,"Belgium",1995,"Healthcare Access and Quality Index frontier",84.3
+76,"Belgium",2000,"Healthcare Access and Quality Index frontier",86
+76,"Belgium",2005,"Healthcare Access and Quality Index frontier",87.4
+76,"Belgium",2010,"Healthcare Access and Quality Index frontier",88.5
+76,"Belgium",2015,"Healthcare Access and Quality Index frontier",89.6
+77,"Cyprus",1990,"Healthcare Access and Quality Index frontier",78.2
+77,"Cyprus",1995,"Healthcare Access and Quality Index frontier",81
+77,"Cyprus",2000,"Healthcare Access and Quality Index frontier",83.4
+77,"Cyprus",2005,"Healthcare Access and Quality Index frontier",86
+77,"Cyprus",2010,"Healthcare Access and Quality Index frontier",88.5
+77,"Cyprus",2015,"Healthcare Access and Quality Index frontier",89.5
+78,"Denmark",1990,"Healthcare Access and Quality Index frontier",85.6
+78,"Denmark",1995,"Healthcare Access and Quality Index frontier",86.9
+78,"Denmark",2000,"Healthcare Access and Quality Index frontier",88.6
+78,"Denmark",2005,"Healthcare Access and Quality Index frontier",89.6
+78,"Denmark",2010,"Healthcare Access and Quality Index frontier",90.4
+78,"Denmark",2015,"Healthcare Access and Quality Index frontier",90.9
+79,"Finland",1990,"Healthcare Access and Quality Index frontier",83
+79,"Finland",1995,"Healthcare Access and Quality Index frontier",84.3
+79,"Finland",2000,"Healthcare Access and Quality Index frontier",86.3
+79,"Finland",2005,"Healthcare Access and Quality Index frontier",87.9
+79,"Finland",2010,"Healthcare Access and Quality Index frontier",89.3
+79,"Finland",2015,"Healthcare Access and Quality Index frontier",90.2
+80,"France",1990,"Healthcare Access and Quality Index frontier",79
+80,"France",1995,"Healthcare Access and Quality Index frontier",80.6
+80,"France",2000,"Healthcare Access and Quality Index frontier",82.2
+80,"France",2005,"Healthcare Access and Quality Index frontier",83.8
+80,"France",2010,"Healthcare Access and Quality Index frontier",85.3
+80,"France",2015,"Healthcare Access and Quality Index frontier",86.7
+81,"Germany",1990,"Healthcare Access and Quality Index frontier",83.5
+81,"Germany",1995,"Healthcare Access and Quality Index frontier",85.8
+81,"Germany",2000,"Healthcare Access and Quality Index frontier",87.4
+81,"Germany",2005,"Healthcare Access and Quality Index frontier",88.8
+81,"Germany",2010,"Healthcare Access and Quality Index frontier",89.9
+81,"Germany",2015,"Healthcare Access and Quality Index frontier",90.6
+82,"Greece",1990,"Healthcare Access and Quality Index frontier",77
+82,"Greece",1995,"Healthcare Access and Quality Index frontier",79.2
+82,"Greece",2000,"Healthcare Access and Quality Index frontier",81.5
+82,"Greece",2005,"Healthcare Access and Quality Index frontier",83.5
+82,"Greece",2010,"Healthcare Access and Quality Index frontier",85.3
+82,"Greece",2015,"Healthcare Access and Quality Index frontier",85.9
+83,"Iceland",1990,"Healthcare Access and Quality Index frontier",83.1
+83,"Iceland",1995,"Healthcare Access and Quality Index frontier",84.6
+83,"Iceland",2000,"Healthcare Access and Quality Index frontier",86.7
+83,"Iceland",2005,"Healthcare Access and Quality Index frontier",88.1
+83,"Iceland",2010,"Healthcare Access and Quality Index frontier",89.5
+83,"Iceland",2015,"Healthcare Access and Quality Index frontier",90.3
+84,"Ireland",1990,"Healthcare Access and Quality Index frontier",79
+84,"Ireland",1995,"Healthcare Access and Quality Index frontier",81.9
+84,"Ireland",2000,"Healthcare Access and Quality Index frontier",84.8
+84,"Ireland",2005,"Healthcare Access and Quality Index frontier",87.1
+84,"Ireland",2010,"Healthcare Access and Quality Index frontier",88.6
+84,"Ireland",2015,"Healthcare Access and Quality Index frontier",90
+85,"Israel",1990,"Healthcare Access and Quality Index frontier",80.3
+85,"Israel",1995,"Healthcare Access and Quality Index frontier",82.2
+85,"Israel",2000,"Healthcare Access and Quality Index frontier",84
+85,"Israel",2005,"Healthcare Access and Quality Index frontier",85.3
+85,"Israel",2010,"Healthcare Access and Quality Index frontier",86.2
+85,"Israel",2015,"Healthcare Access and Quality Index frontier",87.1
+86,"Italy",1990,"Healthcare Access and Quality Index frontier",81.8
+86,"Italy",1995,"Healthcare Access and Quality Index frontier",83.4
+86,"Italy",2000,"Healthcare Access and Quality Index frontier",84.8
+86,"Italy",2005,"Healthcare Access and Quality Index frontier",86
+86,"Italy",2010,"Healthcare Access and Quality Index frontier",87.1
+86,"Italy",2015,"Healthcare Access and Quality Index frontier",88.1
+87,"Luxembourg",1990,"Healthcare Access and Quality Index frontier",83.6
+87,"Luxembourg",1995,"Healthcare Access and Quality Index frontier",85.8
+87,"Luxembourg",2000,"Healthcare Access and Quality Index frontier",87.9
+87,"Luxembourg",2005,"Healthcare Access and Quality Index frontier",89.2
+87,"Luxembourg",2010,"Healthcare Access and Quality Index frontier",90.3
+87,"Luxembourg",2015,"Healthcare Access and Quality Index frontier",90.9
+88,"Malta",1990,"Healthcare Access and Quality Index frontier",74.9
+88,"Malta",1995,"Healthcare Access and Quality Index frontier",75.8
+88,"Malta",2000,"Healthcare Access and Quality Index frontier",78.4
+88,"Malta",2005,"Healthcare Access and Quality Index frontier",81.1
+88,"Malta",2010,"Healthcare Access and Quality Index frontier",83
+88,"Malta",2015,"Healthcare Access and Quality Index frontier",84.5
+89,"Netherlands",1990,"Healthcare Access and Quality Index frontier",83.2
+89,"Netherlands",1995,"Healthcare Access and Quality Index frontier",85
+89,"Netherlands",2000,"Healthcare Access and Quality Index frontier",86.7
+89,"Netherlands",2005,"Healthcare Access and Quality Index frontier",88.1
+89,"Netherlands",2010,"Healthcare Access and Quality Index frontier",89.5
+89,"Netherlands",2015,"Healthcare Access and Quality Index frontier",90.3
+90,"Norway",1990,"Healthcare Access and Quality Index frontier",85.9
+90,"Norway",1995,"Healthcare Access and Quality Index frontier",87.6
+90,"Norway",2000,"Healthcare Access and Quality Index frontier",89.6
+90,"Norway",2005,"Healthcare Access and Quality Index frontier",90.6
+90,"Norway",2010,"Healthcare Access and Quality Index frontier",91.3
+90,"Norway",2015,"Healthcare Access and Quality Index frontier",91.6
+91,"Portugal",1990,"Healthcare Access and Quality Index frontier",71.4
+91,"Portugal",1995,"Healthcare Access and Quality Index frontier",73.5
+91,"Portugal",2000,"Healthcare Access and Quality Index frontier",74.9
+91,"Portugal",2005,"Healthcare Access and Quality Index frontier",76.4
+91,"Portugal",2010,"Healthcare Access and Quality Index frontier",78.4
+91,"Portugal",2015,"Healthcare Access and Quality Index frontier",80.5
+92,"Spain",1990,"Healthcare Access and Quality Index frontier",74.7
+92,"Spain",1995,"Healthcare Access and Quality Index frontier",76.5
+92,"Spain",2000,"Healthcare Access and Quality Index frontier",78.9
+92,"Spain",2005,"Healthcare Access and Quality Index frontier",81.4
+92,"Spain",2010,"Healthcare Access and Quality Index frontier",83.8
+92,"Spain",2015,"Healthcare Access and Quality Index frontier",85.7
+93,"Sweden",1990,"Healthcare Access and Quality Index frontier",82.9
+93,"Sweden",1995,"Healthcare Access and Quality Index frontier",85
+93,"Sweden",2000,"Healthcare Access and Quality Index frontier",87.3
+93,"Sweden",2005,"Healthcare Access and Quality Index frontier",88.3
+93,"Sweden",2010,"Healthcare Access and Quality Index frontier",89.3
+93,"Sweden",2015,"Healthcare Access and Quality Index frontier",90.2
+94,"Switzerland",1990,"Healthcare Access and Quality Index frontier",86.4
+94,"Switzerland",1995,"Healthcare Access and Quality Index frontier",88.1
+94,"Switzerland",2000,"Healthcare Access and Quality Index frontier",89.4
+94,"Switzerland",2005,"Healthcare Access and Quality Index frontier",90.3
+94,"Switzerland",2010,"Healthcare Access and Quality Index frontier",91
+94,"Switzerland",2015,"Healthcare Access and Quality Index frontier",91.4
+95,"United Kingdom",1990,"Healthcare Access and Quality Index frontier",83.4
+95,"United Kingdom",1995,"Healthcare Access and Quality Index frontier",85.4
+95,"United Kingdom",2000,"Healthcare Access and Quality Index frontier",87.5
+95,"United Kingdom",2005,"Healthcare Access and Quality Index frontier",88.9
+95,"United Kingdom",2010,"Healthcare Access and Quality Index frontier",89.6
+95,"United Kingdom",2015,"Healthcare Access and Quality Index frontier",90.3
+96,"Southern Latin America",1990,"Healthcare Access and Quality Index frontier",73.4
+96,"Southern Latin America",1995,"Healthcare Access and Quality Index frontier",74.7
+96,"Southern Latin America",2000,"Healthcare Access and Quality Index frontier",76.4
+96,"Southern Latin America",2005,"Healthcare Access and Quality Index frontier",77.7
+96,"Southern Latin America",2010,"Healthcare Access and Quality Index frontier",80.1
+96,"Southern Latin America",2015,"Healthcare Access and Quality Index frontier",82.6
+97,"Argentina",1990,"Healthcare Access and Quality Index frontier",73.3
+97,"Argentina",1995,"Healthcare Access and Quality Index frontier",74.6
+97,"Argentina",2000,"Healthcare Access and Quality Index frontier",76.1
+97,"Argentina",2005,"Healthcare Access and Quality Index frontier",77.2
+97,"Argentina",2010,"Healthcare Access and Quality Index frontier",79.6
+97,"Argentina",2015,"Healthcare Access and Quality Index frontier",81.9
+98,"Chile",1990,"Healthcare Access and Quality Index frontier",73.8
+98,"Chile",1995,"Healthcare Access and Quality Index frontier",75.3
+98,"Chile",2000,"Healthcare Access and Quality Index frontier",77.6
+98,"Chile",2005,"Healthcare Access and Quality Index frontier",79.8
+98,"Chile",2010,"Healthcare Access and Quality Index frontier",82.3
+98,"Chile",2015,"Healthcare Access and Quality Index frontier",84.5
+99,"Uruguay",1990,"Healthcare Access and Quality Index frontier",72.5
+99,"Uruguay",1995,"Healthcare Access and Quality Index frontier",73.7
+99,"Uruguay",2000,"Healthcare Access and Quality Index frontier",74.8
+99,"Uruguay",2005,"Healthcare Access and Quality Index frontier",75.3
+99,"Uruguay",2010,"Healthcare Access and Quality Index frontier",77
+99,"Uruguay",2015,"Healthcare Access and Quality Index frontier",79.7
+100,"High-income North America",1990,"Healthcare Access and Quality Index frontier",88.5
+100,"High-income North America",1995,"Healthcare Access and Quality Index frontier",89.2
+100,"High-income North America",2000,"Healthcare Access and Quality Index frontier",89.9
+100,"High-income North America",2005,"Healthcare Access and Quality Index frontier",90.5
+100,"High-income North America",2010,"Healthcare Access and Quality Index frontier",91.1
+100,"High-income North America",2015,"Healthcare Access and Quality Index frontier",91.5
+101,"Canada",1990,"Healthcare Access and Quality Index frontier",88.1
+101,"Canada",1995,"Healthcare Access and Quality Index frontier",89.2
+101,"Canada",2000,"Healthcare Access and Quality Index frontier",90.3
+101,"Canada",2005,"Healthcare Access and Quality Index frontier",90.9
+101,"Canada",2010,"Healthcare Access and Quality Index frontier",91.3
+101,"Canada",2015,"Healthcare Access and Quality Index frontier",91.6
+102,"United States",1990,"Healthcare Access and Quality Index frontier",88.5
+102,"United States",1995,"Healthcare Access and Quality Index frontier",89.2
+102,"United States",2000,"Healthcare Access and Quality Index frontier",89.9
+102,"United States",2005,"Healthcare Access and Quality Index frontier",90.5
+102,"United States",2010,"Healthcare Access and Quality Index frontier",91.1
+102,"United States",2015,"Healthcare Access and Quality Index frontier",91.5
+103,"Latin America and Caribbean",1990,"Healthcare Access and Quality Index frontier",65.4
+103,"Latin America and Caribbean",1995,"Healthcare Access and Quality Index frontier",68.5
+103,"Latin America and Caribbean",2000,"Healthcare Access and Quality Index frontier",71.2
+103,"Latin America and Caribbean",2005,"Healthcare Access and Quality Index frontier",72.9
+103,"Latin America and Caribbean",2010,"Healthcare Access and Quality Index frontier",74.2
+103,"Latin America and Caribbean",2015,"Healthcare Access and Quality Index frontier",75.3
+104,"Caribbean",1990,"Healthcare Access and Quality Index frontier",68.5
+104,"Caribbean",1995,"Healthcare Access and Quality Index frontier",70
+104,"Caribbean",2000,"Healthcare Access and Quality Index frontier",71.7
+104,"Caribbean",2005,"Healthcare Access and Quality Index frontier",73
+104,"Caribbean",2010,"Healthcare Access and Quality Index frontier",74
+104,"Caribbean",2015,"Healthcare Access and Quality Index frontier",74.9
+105,"Antigua and Barbuda",1990,"Healthcare Access and Quality Index frontier",79.2
+105,"Antigua and Barbuda",1995,"Healthcare Access and Quality Index frontier",81.1
+105,"Antigua and Barbuda",2000,"Healthcare Access and Quality Index frontier",82.9
+105,"Antigua and Barbuda",2005,"Healthcare Access and Quality Index frontier",84.4
+105,"Antigua and Barbuda",2010,"Healthcare Access and Quality Index frontier",86.2
+105,"Antigua and Barbuda",2015,"Healthcare Access and Quality Index frontier",87
+106,"The Bahamas",1990,"Healthcare Access and Quality Index frontier",77.9
+106,"The Bahamas",1995,"Healthcare Access and Quality Index frontier",79.6
+106,"The Bahamas",2000,"Healthcare Access and Quality Index frontier",82.6
+106,"The Bahamas",2005,"Healthcare Access and Quality Index frontier",85
+106,"The Bahamas",2010,"Healthcare Access and Quality Index frontier",85.8
+106,"The Bahamas",2015,"Healthcare Access and Quality Index frontier",86.6
+107,"Barbados",1990,"Healthcare Access and Quality Index frontier",75.6
+107,"Barbados",1995,"Healthcare Access and Quality Index frontier",76.8
+107,"Barbados",2000,"Healthcare Access and Quality Index frontier",78.5
+107,"Barbados",2005,"Healthcare Access and Quality Index frontier",80.3
+107,"Barbados",2010,"Healthcare Access and Quality Index frontier",81.8
+107,"Barbados",2015,"Healthcare Access and Quality Index frontier",82.8
+108,"Belize",1990,"Healthcare Access and Quality Index frontier",61.4
+108,"Belize",1995,"Healthcare Access and Quality Index frontier",64.5
+108,"Belize",2000,"Healthcare Access and Quality Index frontier",68.9
+108,"Belize",2005,"Healthcare Access and Quality Index frontier",72.4
+108,"Belize",2010,"Healthcare Access and Quality Index frontier",73.8
+108,"Belize",2015,"Healthcare Access and Quality Index frontier",74.8
+109,"Cuba",1990,"Healthcare Access and Quality Index frontier",74.8
+109,"Cuba",1995,"Healthcare Access and Quality Index frontier",74.9
+109,"Cuba",2000,"Healthcare Access and Quality Index frontier",75.3
+109,"Cuba",2005,"Healthcare Access and Quality Index frontier",76.8
+109,"Cuba",2010,"Healthcare Access and Quality Index frontier",79.3
+109,"Cuba",2015,"Healthcare Access and Quality Index frontier",81.5
+110,"Dominica",1990,"Healthcare Access and Quality Index frontier",72
+110,"Dominica",1995,"Healthcare Access and Quality Index frontier",73.8
+110,"Dominica",2000,"Healthcare Access and Quality Index frontier",75.3
+110,"Dominica",2005,"Healthcare Access and Quality Index frontier",76.7
+110,"Dominica",2010,"Healthcare Access and Quality Index frontier",78.6
+110,"Dominica",2015,"Healthcare Access and Quality Index frontier",80.4
+111,"Dominican Republic",1990,"Healthcare Access and Quality Index frontier",64.1
+111,"Dominican Republic",1995,"Healthcare Access and Quality Index frontier",66.8
+111,"Dominican Republic",2000,"Healthcare Access and Quality Index frontier",70.5
+111,"Dominican Republic",2005,"Healthcare Access and Quality Index frontier",72.7
+111,"Dominican Republic",2010,"Healthcare Access and Quality Index frontier",74.2
+111,"Dominican Republic",2015,"Healthcare Access and Quality Index frontier",75.6
+112,"Grenada",1990,"Healthcare Access and Quality Index frontier",67.3
+112,"Grenada",1995,"Healthcare Access and Quality Index frontier",72.7
+112,"Grenada",2000,"Healthcare Access and Quality Index frontier",74.7
+112,"Grenada",2005,"Healthcare Access and Quality Index frontier",76.7
+112,"Grenada",2010,"Healthcare Access and Quality Index frontier",78.8
+112,"Grenada",2015,"Healthcare Access and Quality Index frontier",80.5
+113,"Guyana",1990,"Healthcare Access and Quality Index frontier",62.7
+113,"Guyana",1995,"Healthcare Access and Quality Index frontier",65.3
+113,"Guyana",2000,"Healthcare Access and Quality Index frontier",69
+113,"Guyana",2005,"Healthcare Access and Quality Index frontier",71.1
+113,"Guyana",2010,"Healthcare Access and Quality Index frontier",72.8
+113,"Guyana",2015,"Healthcare Access and Quality Index frontier",74.4
+114,"Haiti",1990,"Healthcare Access and Quality Index frontier",48.2
+114,"Haiti",1995,"Healthcare Access and Quality Index frontier",48.9
+114,"Haiti",2000,"Healthcare Access and Quality Index frontier",49.7
+114,"Haiti",2005,"Healthcare Access and Quality Index frontier",50.7
+114,"Haiti",2010,"Healthcare Access and Quality Index frontier",52
+114,"Haiti",2015,"Healthcare Access and Quality Index frontier",54.6
+115,"Jamaica",1990,"Healthcare Access and Quality Index frontier",71.2
+115,"Jamaica",1995,"Healthcare Access and Quality Index frontier",73.3
+115,"Jamaica",2000,"Healthcare Access and Quality Index frontier",74.3
+115,"Jamaica",2005,"Healthcare Access and Quality Index frontier",75.2
+115,"Jamaica",2010,"Healthcare Access and Quality Index frontier",76.5
+115,"Jamaica",2015,"Healthcare Access and Quality Index frontier",77.7
+116,"Saint Lucia",1990,"Healthcare Access and Quality Index frontier",69.9
+116,"Saint Lucia",1995,"Healthcare Access and Quality Index frontier",73
+116,"Saint Lucia",2000,"Healthcare Access and Quality Index frontier",74.8
+116,"Saint Lucia",2005,"Healthcare Access and Quality Index frontier",76.3
+116,"Saint Lucia",2010,"Healthcare Access and Quality Index frontier",77.7
+116,"Saint Lucia",2015,"Healthcare Access and Quality Index frontier",79.4
+117,"Saint Vincent and the Grenadines",1990,"Healthcare Access and Quality Index frontier",71
+117,"Saint Vincent and the Grenadines",1995,"Healthcare Access and Quality Index frontier",73.4
+117,"Saint Vincent and the Grenadines",2000,"Healthcare Access and Quality Index frontier",74.8
+117,"Saint Vincent and the Grenadines",2005,"Healthcare Access and Quality Index frontier",76.4
+117,"Saint Vincent and the Grenadines",2010,"Healthcare Access and Quality Index frontier",78.4
+117,"Saint Vincent and the Grenadines",2015,"Healthcare Access and Quality Index frontier",80
+118,"Suriname",1990,"Healthcare Access and Quality Index frontier",67.5
+118,"Suriname",1995,"Healthcare Access and Quality Index frontier",69.7
+118,"Suriname",2000,"Healthcare Access and Quality Index frontier",72
+118,"Suriname",2005,"Healthcare Access and Quality Index frontier",73.7
+118,"Suriname",2010,"Healthcare Access and Quality Index frontier",75
+118,"Suriname",2015,"Healthcare Access and Quality Index frontier",76.7
+119,"Trinidad and Tobago",1990,"Healthcare Access and Quality Index frontier",75.5
+119,"Trinidad and Tobago",1995,"Healthcare Access and Quality Index frontier",76.8
+119,"Trinidad and Tobago",2000,"Healthcare Access and Quality Index frontier",79.3
+119,"Trinidad and Tobago",2005,"Healthcare Access and Quality Index frontier",82.4
+119,"Trinidad and Tobago",2010,"Healthcare Access and Quality Index frontier",85
+119,"Trinidad and Tobago",2015,"Healthcare Access and Quality Index frontier",86.4
+120,"Andean Latin America",1990,"Healthcare Access and Quality Index frontier",64.9
+120,"Andean Latin America",1995,"Healthcare Access and Quality Index frontier",67.6
+120,"Andean Latin America",2000,"Healthcare Access and Quality Index frontier",70.6
+120,"Andean Latin America",2005,"Healthcare Access and Quality Index frontier",72.6
+120,"Andean Latin America",2010,"Healthcare Access and Quality Index frontier",74.2
+120,"Andean Latin America",2015,"Healthcare Access and Quality Index frontier",75.6
+121,"Bolivia",1990,"Healthcare Access and Quality Index frontier",56.6
+121,"Bolivia",1995,"Healthcare Access and Quality Index frontier",60.3
+121,"Bolivia",2000,"Healthcare Access and Quality Index frontier",63.5
+121,"Bolivia",2005,"Healthcare Access and Quality Index frontier",66.5
+121,"Bolivia",2010,"Healthcare Access and Quality Index frontier",70
+121,"Bolivia",2015,"Healthcare Access and Quality Index frontier",72.6
+122,"Ecuador",1990,"Healthcare Access and Quality Index frontier",66.2
+122,"Ecuador",1995,"Healthcare Access and Quality Index frontier",69.3
+122,"Ecuador",2000,"Healthcare Access and Quality Index frontier",71.7
+122,"Ecuador",2005,"Healthcare Access and Quality Index frontier",73.2
+122,"Ecuador",2010,"Healthcare Access and Quality Index frontier",74.5
+122,"Ecuador",2015,"Healthcare Access and Quality Index frontier",75.7
+123,"Peru",1990,"Healthcare Access and Quality Index frontier",66.7
+123,"Peru",1995,"Healthcare Access and Quality Index frontier",69.3
+123,"Peru",2000,"Healthcare Access and Quality Index frontier",72
+123,"Peru",2005,"Healthcare Access and Quality Index frontier",73.6
+123,"Peru",2010,"Healthcare Access and Quality Index frontier",75
+123,"Peru",2015,"Healthcare Access and Quality Index frontier",76.8
+124,"Central Latin America",1990,"Healthcare Access and Quality Index frontier",66.6
+124,"Central Latin America",1995,"Healthcare Access and Quality Index frontier",69.9
+124,"Central Latin America",2000,"Healthcare Access and Quality Index frontier",72.3
+124,"Central Latin America",2005,"Healthcare Access and Quality Index frontier",73.7
+124,"Central Latin America",2010,"Healthcare Access and Quality Index frontier",74.9
+124,"Central Latin America",2015,"Healthcare Access and Quality Index frontier",76.1
+125,"Colombia",1990,"Healthcare Access and Quality Index frontier",67.1
+125,"Colombia",1995,"Healthcare Access and Quality Index frontier",70.4
+125,"Colombia",2000,"Healthcare Access and Quality Index frontier",72.5
+125,"Colombia",2005,"Healthcare Access and Quality Index frontier",73.7
+125,"Colombia",2010,"Healthcare Access and Quality Index frontier",74.9
+125,"Colombia",2015,"Healthcare Access and Quality Index frontier",76.5
+126,"Costa Rica",1990,"Healthcare Access and Quality Index frontier",68.6
+126,"Costa Rica",1995,"Healthcare Access and Quality Index frontier",71.4
+126,"Costa Rica",2000,"Healthcare Access and Quality Index frontier",73.5
+126,"Costa Rica",2005,"Healthcare Access and Quality Index frontier",74.7
+126,"Costa Rica",2010,"Healthcare Access and Quality Index frontier",76.1
+126,"Costa Rica",2015,"Healthcare Access and Quality Index frontier",78
+127,"El Salvador",1990,"Healthcare Access and Quality Index frontier",57.2
+127,"El Salvador",1995,"Healthcare Access and Quality Index frontier",61.5
+127,"El Salvador",2000,"Healthcare Access and Quality Index frontier",64.8
+127,"El Salvador",2005,"Healthcare Access and Quality Index frontier",68.4
+127,"El Salvador",2010,"Healthcare Access and Quality Index frontier",71.4
+127,"El Salvador",2015,"Healthcare Access and Quality Index frontier",73
+128,"Guatemala",1990,"Healthcare Access and Quality Index frontier",50.7
+128,"Guatemala",1995,"Healthcare Access and Quality Index frontier",53.1
+128,"Guatemala",2000,"Healthcare Access and Quality Index frontier",57.5
+128,"Guatemala",2005,"Healthcare Access and Quality Index frontier",61.4
+128,"Guatemala",2010,"Healthcare Access and Quality Index frontier",64.2
+128,"Guatemala",2015,"Healthcare Access and Quality Index frontier",66.9
+129,"Honduras",1990,"Healthcare Access and Quality Index frontier",51.5
+129,"Honduras",1995,"Healthcare Access and Quality Index frontier",54.8
+129,"Honduras",2000,"Healthcare Access and Quality Index frontier",59.1
+129,"Honduras",2005,"Healthcare Access and Quality Index frontier",62.7
+129,"Honduras",2010,"Healthcare Access and Quality Index frontier",66.2
+129,"Honduras",2015,"Healthcare Access and Quality Index frontier",69.5
+130,"Mexico",1990,"Healthcare Access and Quality Index frontier",68.9
+130,"Mexico",1995,"Healthcare Access and Quality Index frontier",72
+130,"Mexico",2000,"Healthcare Access and Quality Index frontier",73.7
+130,"Mexico",2005,"Healthcare Access and Quality Index frontier",74.8
+130,"Mexico",2010,"Healthcare Access and Quality Index frontier",76.1
+130,"Mexico",2015,"Healthcare Access and Quality Index frontier",77.6
+131,"Nicaragua",1990,"Healthcare Access and Quality Index frontier",53.1
+131,"Nicaragua",1995,"Healthcare Access and Quality Index frontier",56.1
+131,"Nicaragua",2000,"Healthcare Access and Quality Index frontier",60.4
+131,"Nicaragua",2005,"Healthcare Access and Quality Index frontier",63.4
+131,"Nicaragua",2010,"Healthcare Access and Quality Index frontier",65.9
+131,"Nicaragua",2015,"Healthcare Access and Quality Index frontier",68.9
+132,"Panama",1990,"Healthcare Access and Quality Index frontier",71.6
+132,"Panama",1995,"Healthcare Access and Quality Index frontier",73
+132,"Panama",2000,"Healthcare Access and Quality Index frontier",74.2
+132,"Panama",2005,"Healthcare Access and Quality Index frontier",75.2
+132,"Panama",2010,"Healthcare Access and Quality Index frontier",77
+132,"Panama",2015,"Healthcare Access and Quality Index frontier",79.9
+133,"Venezuela",1990,"Healthcare Access and Quality Index frontier",71.4
+133,"Venezuela",1995,"Healthcare Access and Quality Index frontier",73.2
+133,"Venezuela",2000,"Healthcare Access and Quality Index frontier",74.1
+133,"Venezuela",2005,"Healthcare Access and Quality Index frontier",75
+133,"Venezuela",2010,"Healthcare Access and Quality Index frontier",76.7
+133,"Venezuela",2015,"Healthcare Access and Quality Index frontier",78.5
+134,"Tropical Latin America",1990,"Healthcare Access and Quality Index frontier",63.7
+134,"Tropical Latin America",1995,"Healthcare Access and Quality Index frontier",66.6
+134,"Tropical Latin America",2000,"Healthcare Access and Quality Index frontier",69.5
+134,"Tropical Latin America",2005,"Healthcare Access and Quality Index frontier",72
+134,"Tropical Latin America",2010,"Healthcare Access and Quality Index frontier",73.6
+134,"Tropical Latin America",2015,"Healthcare Access and Quality Index frontier",74.7
+135,"Brazil",1990,"Healthcare Access and Quality Index frontier",63.8
+135,"Brazil",1995,"Healthcare Access and Quality Index frontier",66.6
+135,"Brazil",2000,"Healthcare Access and Quality Index frontier",69.6
+135,"Brazil",2005,"Healthcare Access and Quality Index frontier",72.1
+135,"Brazil",2010,"Healthcare Access and Quality Index frontier",73.7
+135,"Brazil",2015,"Healthcare Access and Quality Index frontier",74.7
+136,"Paraguay",1990,"Healthcare Access and Quality Index frontier",61.7
+136,"Paraguay",1995,"Healthcare Access and Quality Index frontier",64.2
+136,"Paraguay",2000,"Healthcare Access and Quality Index frontier",67.3
+136,"Paraguay",2005,"Healthcare Access and Quality Index frontier",70.1
+136,"Paraguay",2010,"Healthcare Access and Quality Index frontier",72.4
+136,"Paraguay",2015,"Healthcare Access and Quality Index frontier",74
+137,"North Africa and Middle East",1990,"Healthcare Access and Quality Index frontier",55.7
+137,"North Africa and Middle East",1995,"Healthcare Access and Quality Index frontier",60.8
+137,"North Africa and Middle East",2000,"Healthcare Access and Quality Index frontier",64.2
+137,"North Africa and Middle East",2005,"Healthcare Access and Quality Index frontier",67.5
+137,"North Africa and Middle East",2010,"Healthcare Access and Quality Index frontier",70.5
+137,"North Africa and Middle East",2015,"Healthcare Access and Quality Index frontier",72.3
+138,"North Africa and Middle East",1990,"Healthcare Access and Quality Index frontier",55.7
+138,"North Africa and Middle East",1995,"Healthcare Access and Quality Index frontier",60.8
+138,"North Africa and Middle East",2000,"Healthcare Access and Quality Index frontier",64.2
+138,"North Africa and Middle East",2005,"Healthcare Access and Quality Index frontier",67.5
+138,"North Africa and Middle East",2010,"Healthcare Access and Quality Index frontier",70.5
+138,"North Africa and Middle East",2015,"Healthcare Access and Quality Index frontier",72.3
+139,"Algeria",1990,"Healthcare Access and Quality Index frontier",58.3
+139,"Algeria",1995,"Healthcare Access and Quality Index frontier",63.7
+139,"Algeria",2000,"Healthcare Access and Quality Index frontier",67.5
+139,"Algeria",2005,"Healthcare Access and Quality Index frontier",69.7
+139,"Algeria",2010,"Healthcare Access and Quality Index frontier",70.4
+139,"Algeria",2015,"Healthcare Access and Quality Index frontier",71.4
+140,"Bahrain",1990,"Healthcare Access and Quality Index frontier",71.8
+140,"Bahrain",1995,"Healthcare Access and Quality Index frontier",74.3
+140,"Bahrain",2000,"Healthcare Access and Quality Index frontier",75.7
+140,"Bahrain",2005,"Healthcare Access and Quality Index frontier",77.7
+140,"Bahrain",2010,"Healthcare Access and Quality Index frontier",81.2
+140,"Bahrain",2015,"Healthcare Access and Quality Index frontier",82.3
+141,"Egypt",1990,"Healthcare Access and Quality Index frontier",58
+141,"Egypt",1995,"Healthcare Access and Quality Index frontier",63.1
+141,"Egypt",2000,"Healthcare Access and Quality Index frontier",67
+141,"Egypt",2005,"Healthcare Access and Quality Index frontier",70.4
+141,"Egypt",2010,"Healthcare Access and Quality Index frontier",72.1
+141,"Egypt",2015,"Healthcare Access and Quality Index frontier",73
+142,"Iran",1990,"Healthcare Access and Quality Index frontier",60
+142,"Iran",1995,"Healthcare Access and Quality Index frontier",67.2
+142,"Iran",2000,"Healthcare Access and Quality Index frontier",72.7
+142,"Iran",2005,"Healthcare Access and Quality Index frontier",74.8
+142,"Iran",2010,"Healthcare Access and Quality Index frontier",76.4
+142,"Iran",2015,"Healthcare Access and Quality Index frontier",77.5
+143,"Iraq",1990,"Healthcare Access and Quality Index frontier",53.2
+143,"Iraq",1995,"Healthcare Access and Quality Index frontier",56.4
+143,"Iraq",2000,"Healthcare Access and Quality Index frontier",61.9
+143,"Iraq",2005,"Healthcare Access and Quality Index frontier",64.8
+143,"Iraq",2010,"Healthcare Access and Quality Index frontier",66.5
+143,"Iraq",2015,"Healthcare Access and Quality Index frontier",70.1
+144,"Jordan",1990,"Healthcare Access and Quality Index frontier",63.1
+144,"Jordan",1995,"Healthcare Access and Quality Index frontier",69.2
+144,"Jordan",2000,"Healthcare Access and Quality Index frontier",71.7
+144,"Jordan",2005,"Healthcare Access and Quality Index frontier",73.6
+144,"Jordan",2010,"Healthcare Access and Quality Index frontier",74.9
+144,"Jordan",2015,"Healthcare Access and Quality Index frontier",76.3
+145,"Kuwait",1990,"Healthcare Access and Quality Index frontier",76
+145,"Kuwait",1995,"Healthcare Access and Quality Index frontier",77.9
+145,"Kuwait",2000,"Healthcare Access and Quality Index frontier",81.5
+145,"Kuwait",2005,"Healthcare Access and Quality Index frontier",83.4
+145,"Kuwait",2010,"Healthcare Access and Quality Index frontier",86.7
+145,"Kuwait",2015,"Healthcare Access and Quality Index frontier",88.5
+146,"Lebanon",1990,"Healthcare Access and Quality Index frontier",69.5
+146,"Lebanon",1995,"Healthcare Access and Quality Index frontier",72.1
+146,"Lebanon",2000,"Healthcare Access and Quality Index frontier",74
+146,"Lebanon",2005,"Healthcare Access and Quality Index frontier",75.8
+146,"Lebanon",2010,"Healthcare Access and Quality Index frontier",77.8
+146,"Lebanon",2015,"Healthcare Access and Quality Index frontier",80.5
+147,"Libya",1990,"Healthcare Access and Quality Index frontier",61.5
+147,"Libya",1995,"Healthcare Access and Quality Index frontier",66.4
+147,"Libya",2000,"Healthcare Access and Quality Index frontier",70.1
+147,"Libya",2005,"Healthcare Access and Quality Index frontier",72.4
+147,"Libya",2010,"Healthcare Access and Quality Index frontier",73.9
+147,"Libya",2015,"Healthcare Access and Quality Index frontier",74
+148,"Morocco",1990,"Healthcare Access and Quality Index frontier",49.4
+148,"Morocco",1995,"Healthcare Access and Quality Index frontier",51.1
+148,"Morocco",2000,"Healthcare Access and Quality Index frontier",54.7
+148,"Morocco",2005,"Healthcare Access and Quality Index frontier",58
+148,"Morocco",2010,"Healthcare Access and Quality Index frontier",60.7
+148,"Morocco",2015,"Healthcare Access and Quality Index frontier",63
+149,"Palestine",1990,"Healthcare Access and Quality Index frontier",55.8
+149,"Palestine",1995,"Healthcare Access and Quality Index frontier",61.1
+149,"Palestine",2000,"Healthcare Access and Quality Index frontier",66.8
+149,"Palestine",2005,"Healthcare Access and Quality Index frontier",67.8
+149,"Palestine",2010,"Healthcare Access and Quality Index frontier",67.5
+149,"Palestine",2015,"Healthcare Access and Quality Index frontier",69.4
+150,"Oman",1990,"Healthcare Access and Quality Index frontier",54.3
+150,"Oman",1995,"Healthcare Access and Quality Index frontier",64.9
+150,"Oman",2000,"Healthcare Access and Quality Index frontier",72.5
+150,"Oman",2005,"Healthcare Access and Quality Index frontier",74.6
+150,"Oman",2010,"Healthcare Access and Quality Index frontier",75.8
+150,"Oman",2015,"Healthcare Access and Quality Index frontier",78.6
+151,"Qatar",1990,"Healthcare Access and Quality Index frontier",72.9
+151,"Qatar",1995,"Healthcare Access and Quality Index frontier",74.6
+151,"Qatar",2000,"Healthcare Access and Quality Index frontier",75.7
+151,"Qatar",2005,"Healthcare Access and Quality Index frontier",78.9
+151,"Qatar",2010,"Healthcare Access and Quality Index frontier",82.3
+151,"Qatar",2015,"Healthcare Access and Quality Index frontier",84.5
+152,"Saudi Arabia",1990,"Healthcare Access and Quality Index frontier",65.4
+152,"Saudi Arabia",1995,"Healthcare Access and Quality Index frontier",69.8
+152,"Saudi Arabia",2000,"Healthcare Access and Quality Index frontier",74
+152,"Saudi Arabia",2005,"Healthcare Access and Quality Index frontier",76
+152,"Saudi Arabia",2010,"Healthcare Access and Quality Index frontier",78.6
+152,"Saudi Arabia",2015,"Healthcare Access and Quality Index frontier",81
+153,"Syria",1990,"Healthcare Access and Quality Index frontier",52.1
+153,"Syria",1995,"Healthcare Access and Quality Index frontier",57.9
+153,"Syria",2000,"Healthcare Access and Quality Index frontier",62.1
+153,"Syria",2005,"Healthcare Access and Quality Index frontier",65.4
+153,"Syria",2010,"Healthcare Access and Quality Index frontier",70.5
+153,"Syria",2015,"Healthcare Access and Quality Index frontier",70.4
+154,"Tunisia",1990,"Healthcare Access and Quality Index frontier",59.1
+154,"Tunisia",1995,"Healthcare Access and Quality Index frontier",64.4
+154,"Tunisia",2000,"Healthcare Access and Quality Index frontier",69
+154,"Tunisia",2005,"Healthcare Access and Quality Index frontier",72
+154,"Tunisia",2010,"Healthcare Access and Quality Index frontier",73.5
+154,"Tunisia",2015,"Healthcare Access and Quality Index frontier",74.3
+155,"Turkey",1990,"Healthcare Access and Quality Index frontier",65.2
+155,"Turkey",1995,"Healthcare Access and Quality Index frontier",68.5
+155,"Turkey",2000,"Healthcare Access and Quality Index frontier",71.4
+155,"Turkey",2005,"Healthcare Access and Quality Index frontier",73.3
+155,"Turkey",2010,"Healthcare Access and Quality Index frontier",74.6
+155,"Turkey",2015,"Healthcare Access and Quality Index frontier",75.9
+156,"United Arab Emirates",1990,"Healthcare Access and Quality Index frontier",73.7
+156,"United Arab Emirates",1995,"Healthcare Access and Quality Index frontier",78.4
+156,"United Arab Emirates",2000,"Healthcare Access and Quality Index frontier",82.7
+156,"United Arab Emirates",2005,"Healthcare Access and Quality Index frontier",85.8
+156,"United Arab Emirates",2010,"Healthcare Access and Quality Index frontier",88.9
+156,"United Arab Emirates",2015,"Healthcare Access and Quality Index frontier",89.2
+157,"Yemen",1990,"Healthcare Access and Quality Index frontier",37
+157,"Yemen",1995,"Healthcare Access and Quality Index frontier",42.6
+157,"Yemen",2000,"Healthcare Access and Quality Index frontier",46.2
+157,"Yemen",2005,"Healthcare Access and Quality Index frontier",48.8
+157,"Yemen",2010,"Healthcare Access and Quality Index frontier",51.3
+157,"Yemen",2015,"Healthcare Access and Quality Index frontier",54.1
+158,"South Asia",1990,"Healthcare Access and Quality Index frontier",48.5
+158,"South Asia",1995,"Healthcare Access and Quality Index frontier",49.9
+158,"South Asia",2000,"Healthcare Access and Quality Index frontier",52.9
+158,"South Asia",2005,"Healthcare Access and Quality Index frontier",58
+158,"South Asia",2010,"Healthcare Access and Quality Index frontier",62.7
+158,"South Asia",2015,"Healthcare Access and Quality Index frontier",66.3
+159,"South Asia",1990,"Healthcare Access and Quality Index frontier",48.5
+159,"South Asia",1995,"Healthcare Access and Quality Index frontier",49.9
+159,"South Asia",2000,"Healthcare Access and Quality Index frontier",52.9
+159,"South Asia",2005,"Healthcare Access and Quality Index frontier",58
+159,"South Asia",2010,"Healthcare Access and Quality Index frontier",62.7
+159,"South Asia",2015,"Healthcare Access and Quality Index frontier",66.3
+160,"Afghanistan",1990,"Healthcare Access and Quality Index frontier",38
+160,"Afghanistan",1995,"Healthcare Access and Quality Index frontier",38.8
+160,"Afghanistan",2000,"Healthcare Access and Quality Index frontier",37.8
+160,"Afghanistan",2005,"Healthcare Access and Quality Index frontier",41.4
+160,"Afghanistan",2010,"Healthcare Access and Quality Index frontier",44.7
+160,"Afghanistan",2015,"Healthcare Access and Quality Index frontier",47.6
+161,"Bangladesh",1990,"Healthcare Access and Quality Index frontier",47
+161,"Bangladesh",1995,"Healthcare Access and Quality Index frontier",48.6
+161,"Bangladesh",2000,"Healthcare Access and Quality Index frontier",49.9
+161,"Bangladesh",2005,"Healthcare Access and Quality Index frontier",52.1
+161,"Bangladesh",2010,"Healthcare Access and Quality Index frontier",56.7
+161,"Bangladesh",2015,"Healthcare Access and Quality Index frontier",61.1
+162,"Bhutan",1990,"Healthcare Access and Quality Index frontier",47.3
+162,"Bhutan",1995,"Healthcare Access and Quality Index frontier",49
+162,"Bhutan",2000,"Healthcare Access and Quality Index frontier",51.9
+162,"Bhutan",2005,"Healthcare Access and Quality Index frontier",58
+162,"Bhutan",2010,"Healthcare Access and Quality Index frontier",62.6
+162,"Bhutan",2015,"Healthcare Access and Quality Index frontier",65.9
+163,"India",1990,"Healthcare Access and Quality Index frontier",48.8
+163,"India",1995,"Healthcare Access and Quality Index frontier",50.4
+163,"India",2000,"Healthcare Access and Quality Index frontier",54.1
+163,"India",2005,"Healthcare Access and Quality Index frontier",59.5
+163,"India",2010,"Healthcare Access and Quality Index frontier",63.9
+163,"India",2015,"Healthcare Access and Quality Index frontier",68.4
+164,"Nepal",1990,"Healthcare Access and Quality Index frontier",44.4
+164,"Nepal",1995,"Healthcare Access and Quality Index frontier",46.4
+164,"Nepal",2000,"Healthcare Access and Quality Index frontier",48.2
+164,"Nepal",2005,"Healthcare Access and Quality Index frontier",49.5
+164,"Nepal",2010,"Healthcare Access and Quality Index frontier",51.5
+164,"Nepal",2015,"Healthcare Access and Quality Index frontier",55.7
+165,"Pakistan",1990,"Healthcare Access and Quality Index frontier",47.2
+165,"Pakistan",1995,"Healthcare Access and Quality Index frontier",48.9
+165,"Pakistan",2000,"Healthcare Access and Quality Index frontier",50.6
+165,"Pakistan",2005,"Healthcare Access and Quality Index frontier",53.5
+165,"Pakistan",2010,"Healthcare Access and Quality Index frontier",57.5
+165,"Pakistan",2015,"Healthcare Access and Quality Index frontier",60.7
+166,"Sub-Saharan Africa",1990,"Healthcare Access and Quality Index frontier",46.6
+166,"Sub-Saharan Africa",1995,"Healthcare Access and Quality Index frontier",47.3
+166,"Sub-Saharan Africa",2000,"Healthcare Access and Quality Index frontier",47.9
+166,"Sub-Saharan Africa",2005,"Healthcare Access and Quality Index frontier",48.7
+166,"Sub-Saharan Africa",2010,"Healthcare Access and Quality Index frontier",49.9
+166,"Sub-Saharan Africa",2015,"Healthcare Access and Quality Index frontier",52.3
+167,"Central Sub-Saharan Africa",1990,"Healthcare Access and Quality Index frontier",45.7
+167,"Central Sub-Saharan Africa",1995,"Healthcare Access and Quality Index frontier",45.4
+167,"Central Sub-Saharan Africa",2000,"Healthcare Access and Quality Index frontier",44.3
+167,"Central Sub-Saharan Africa",2005,"Healthcare Access and Quality Index frontier",43.1
+167,"Central Sub-Saharan Africa",2010,"Healthcare Access and Quality Index frontier",45.7
+167,"Central Sub-Saharan Africa",2015,"Healthcare Access and Quality Index frontier",48.1
+168,"Angola",1990,"Healthcare Access and Quality Index frontier",46.1
+168,"Angola",1995,"Healthcare Access and Quality Index frontier",47
+168,"Angola",2000,"Healthcare Access and Quality Index frontier",47.8
+168,"Angola",2005,"Healthcare Access and Quality Index frontier",48.9
+168,"Angola",2010,"Healthcare Access and Quality Index frontier",51.1
+168,"Angola",2015,"Healthcare Access and Quality Index frontier",55.3
+169,"Central African Republic",1990,"Healthcare Access and Quality Index frontier",44
+169,"Central African Republic",1995,"Healthcare Access and Quality Index frontier",44.8
+169,"Central African Republic",2000,"Healthcare Access and Quality Index frontier",45.5
+169,"Central African Republic",2005,"Healthcare Access and Quality Index frontier",46.2
+169,"Central African Republic",2010,"Healthcare Access and Quality Index frontier",47.3
+169,"Central African Republic",2015,"Healthcare Access and Quality Index frontier",47.3
+170,"Congo",1990,"Healthcare Access and Quality Index frontier",53.6
+170,"Congo",1995,"Healthcare Access and Quality Index frontier",56.4
+170,"Congo",2000,"Healthcare Access and Quality Index frontier",58.8
+170,"Congo",2005,"Healthcare Access and Quality Index frontier",60.8
+170,"Congo",2010,"Healthcare Access and Quality Index frontier",63.2
+170,"Congo",2015,"Healthcare Access and Quality Index frontier",65.5
+171,"Democratic Republic of the Congo",1990,"Healthcare Access and Quality Index frontier",44.7
+171,"Democratic Republic of the Congo",1995,"Healthcare Access and Quality Index frontier",43.8
+171,"Democratic Republic of the Congo",2000,"Healthcare Access and Quality Index frontier",40.6
+171,"Democratic Republic of the Congo",2005,"Healthcare Access and Quality Index frontier",37
+171,"Democratic Republic of the Congo",2010,"Healthcare Access and Quality Index frontier",40.9
+171,"Democratic Republic of the Congo",2015,"Healthcare Access and Quality Index frontier",45.2
+172,"Equatorial Guinea",1990,"Healthcare Access and Quality Index frontier",46.4
+172,"Equatorial Guinea",1995,"Healthcare Access and Quality Index frontier",47.5
+172,"Equatorial Guinea",2000,"Healthcare Access and Quality Index frontier",55.8
+172,"Equatorial Guinea",2005,"Healthcare Access and Quality Index frontier",65.2
+172,"Equatorial Guinea",2010,"Healthcare Access and Quality Index frontier",70
+172,"Equatorial Guinea",2015,"Healthcare Access and Quality Index frontier",72.5
+173,"Gabon",1990,"Healthcare Access and Quality Index frontier",61.1
+173,"Gabon",1995,"Healthcare Access and Quality Index frontier",63.9
+173,"Gabon",2000,"Healthcare Access and Quality Index frontier",67.2
+173,"Gabon",2005,"Healthcare Access and Quality Index frontier",70.3
+173,"Gabon",2010,"Healthcare Access and Quality Index frontier",72.4
+173,"Gabon",2015,"Healthcare Access and Quality Index frontier",74
+174,"Eastern Sub-Saharan Africa",1990,"Healthcare Access and Quality Index frontier",43.1
+174,"Eastern Sub-Saharan Africa",1995,"Healthcare Access and Quality Index frontier",44
+174,"Eastern Sub-Saharan Africa",2000,"Healthcare Access and Quality Index frontier",45.2
+174,"Eastern Sub-Saharan Africa",2005,"Healthcare Access and Quality Index frontier",46.6
+174,"Eastern Sub-Saharan Africa",2010,"Healthcare Access and Quality Index frontier",48.4
+174,"Eastern Sub-Saharan Africa",2015,"Healthcare Access and Quality Index frontier",49.9
+175,"Burundi",1990,"Healthcare Access and Quality Index frontier",39.9
+175,"Burundi",1995,"Healthcare Access and Quality Index frontier",41
+175,"Burundi",2000,"Healthcare Access and Quality Index frontier",40.7
+175,"Burundi",2005,"Healthcare Access and Quality Index frontier",42.2
+175,"Burundi",2010,"Healthcare Access and Quality Index frontier",43.8
+175,"Burundi",2015,"Healthcare Access and Quality Index frontier",45.3
+176,"Comoros",1990,"Healthcare Access and Quality Index frontier",46
+176,"Comoros",1995,"Healthcare Access and Quality Index frontier",47.1
+176,"Comoros",2000,"Healthcare Access and Quality Index frontier",48.1
+176,"Comoros",2005,"Healthcare Access and Quality Index frontier",49
+176,"Comoros",2010,"Healthcare Access and Quality Index frontier",49.7
+176,"Comoros",2015,"Healthcare Access and Quality Index frontier",50.5
+177,"Djibouti",1990,"Healthcare Access and Quality Index frontier",48.9
+177,"Djibouti",1995,"Healthcare Access and Quality Index frontier",49.7
+177,"Djibouti",2000,"Healthcare Access and Quality Index frontier",50.9
+177,"Djibouti",2005,"Healthcare Access and Quality Index frontier",52.8
+177,"Djibouti",2010,"Healthcare Access and Quality Index frontier",56.7
+177,"Djibouti",2015,"Healthcare Access and Quality Index frontier",60.2
+178,"Eritrea",1990,"Healthcare Access and Quality Index frontier",41.5
+178,"Eritrea",1995,"Healthcare Access and Quality Index frontier",44.2
+178,"Eritrea",2000,"Healthcare Access and Quality Index frontier",47.1
+178,"Eritrea",2005,"Healthcare Access and Quality Index frontier",48.3
+178,"Eritrea",2010,"Healthcare Access and Quality Index frontier",48.4
+178,"Eritrea",2015,"Healthcare Access and Quality Index frontier",48.9
+179,"Ethiopia",1990,"Healthcare Access and Quality Index frontier",36.8
+179,"Ethiopia",1995,"Healthcare Access and Quality Index frontier",36.9
+179,"Ethiopia",2000,"Healthcare Access and Quality Index frontier",38.2
+179,"Ethiopia",2005,"Healthcare Access and Quality Index frontier",41.1
+179,"Ethiopia",2010,"Healthcare Access and Quality Index frontier",45.2
+179,"Ethiopia",2015,"Healthcare Access and Quality Index frontier",48.1
+180,"Kenya",1990,"Healthcare Access and Quality Index frontier",49.5
+180,"Kenya",1995,"Healthcare Access and Quality Index frontier",51.6
+180,"Kenya",2000,"Healthcare Access and Quality Index frontier",53.1
+180,"Kenya",2005,"Healthcare Access and Quality Index frontier",54.6
+180,"Kenya",2010,"Healthcare Access and Quality Index frontier",57.6
+180,"Kenya",2015,"Healthcare Access and Quality Index frontier",61.1
+181,"Madagascar",1990,"Healthcare Access and Quality Index frontier",46.4
+181,"Madagascar",1995,"Healthcare Access and Quality Index frontier",47
+181,"Madagascar",2000,"Healthcare Access and Quality Index frontier",47.9
+181,"Madagascar",2005,"Healthcare Access and Quality Index frontier",48.9
+181,"Madagascar",2010,"Healthcare Access and Quality Index frontier",49.8
+181,"Madagascar",2015,"Healthcare Access and Quality Index frontier",50.8
+182,"Malawi",1990,"Healthcare Access and Quality Index frontier",42.4
+182,"Malawi",1995,"Healthcare Access and Quality Index frontier",42.5
+182,"Malawi",2000,"Healthcare Access and Quality Index frontier",44.3
+182,"Malawi",2005,"Healthcare Access and Quality Index frontier",44.9
+182,"Malawi",2010,"Healthcare Access and Quality Index frontier",46.8
+182,"Malawi",2015,"Healthcare Access and Quality Index frontier",48.4
+183,"Mauritius",1990,"Healthcare Access and Quality Index frontier",68.6
+183,"Mauritius",1995,"Healthcare Access and Quality Index frontier",72.1
+183,"Mauritius",2000,"Healthcare Access and Quality Index frontier",73.9
+183,"Mauritius",2005,"Healthcare Access and Quality Index frontier",75
+183,"Mauritius",2010,"Healthcare Access and Quality Index frontier",76.7
+183,"Mauritius",2015,"Healthcare Access and Quality Index frontier",79
+184,"Mozambique",1990,"Healthcare Access and Quality Index frontier",31.5
+184,"Mozambique",1995,"Healthcare Access and Quality Index frontier",31.6
+184,"Mozambique",2000,"Healthcare Access and Quality Index frontier",36.8
+184,"Mozambique",2005,"Healthcare Access and Quality Index frontier",41.8
+184,"Mozambique",2010,"Healthcare Access and Quality Index frontier",45
+184,"Mozambique",2015,"Healthcare Access and Quality Index frontier",47.1
+185,"Rwanda",1990,"Healthcare Access and Quality Index frontier",43.3
+185,"Rwanda",1995,"Healthcare Access and Quality Index frontier",43.7
+185,"Rwanda",2000,"Healthcare Access and Quality Index frontier",45
+185,"Rwanda",2005,"Healthcare Access and Quality Index frontier",46.6
+185,"Rwanda",2010,"Healthcare Access and Quality Index frontier",48.8
+185,"Rwanda",2015,"Healthcare Access and Quality Index frontier",51
+186,"Seychelles",1990,"Healthcare Access and Quality Index frontier",72.2
+186,"Seychelles",1995,"Healthcare Access and Quality Index frontier",74.5
+186,"Seychelles",2000,"Healthcare Access and Quality Index frontier",75.9
+186,"Seychelles",2005,"Healthcare Access and Quality Index frontier",77.3
+186,"Seychelles",2010,"Healthcare Access and Quality Index frontier",78.6
+186,"Seychelles",2015,"Healthcare Access and Quality Index frontier",80.9
+187,"Somalia",1990,"Healthcare Access and Quality Index frontier",35.5
+187,"Somalia",1995,"Healthcare Access and Quality Index frontier",34.6
+187,"Somalia",2000,"Healthcare Access and Quality Index frontier",34.4
+187,"Somalia",2005,"Healthcare Access and Quality Index frontier",35
+187,"Somalia",2010,"Healthcare Access and Quality Index frontier",36.9
+187,"Somalia",2015,"Healthcare Access and Quality Index frontier",38.6
+189,"Tanzania",1990,"Healthcare Access and Quality Index frontier",47
+189,"Tanzania",1995,"Healthcare Access and Quality Index frontier",47.8
+189,"Tanzania",2000,"Healthcare Access and Quality Index frontier",48.5
+189,"Tanzania",2005,"Healthcare Access and Quality Index frontier",49.4
+189,"Tanzania",2010,"Healthcare Access and Quality Index frontier",51
+189,"Tanzania",2015,"Healthcare Access and Quality Index frontier",54.6
+190,"Uganda",1990,"Healthcare Access and Quality Index frontier",43.2
+190,"Uganda",1995,"Healthcare Access and Quality Index frontier",44.5
+190,"Uganda",2000,"Healthcare Access and Quality Index frontier",46.2
+190,"Uganda",2005,"Healthcare Access and Quality Index frontier",47.7
+190,"Uganda",2010,"Healthcare Access and Quality Index frontier",49.4
+190,"Uganda",2015,"Healthcare Access and Quality Index frontier",51.3
+191,"Zambia",1990,"Healthcare Access and Quality Index frontier",49
+191,"Zambia",1995,"Healthcare Access and Quality Index frontier",49.4
+191,"Zambia",2000,"Healthcare Access and Quality Index frontier",49.9
+191,"Zambia",2005,"Healthcare Access and Quality Index frontier",51.1
+191,"Zambia",2010,"Healthcare Access and Quality Index frontier",55.5
+191,"Zambia",2015,"Healthcare Access and Quality Index frontier",60.7
+192,"Southern Sub-Saharan Africa",1990,"Healthcare Access and Quality Index frontier",65.3
+192,"Southern Sub-Saharan Africa",1995,"Healthcare Access and Quality Index frontier",68.2
+192,"Southern Sub-Saharan Africa",2000,"Healthcare Access and Quality Index frontier",70.8
+192,"Southern Sub-Saharan Africa",2005,"Healthcare Access and Quality Index frontier",72.6
+192,"Southern Sub-Saharan Africa",2010,"Healthcare Access and Quality Index frontier",73.7
+192,"Southern Sub-Saharan Africa",2015,"Healthcare Access and Quality Index frontier",74.8
+193,"Botswana",1990,"Healthcare Access and Quality Index frontier",55.4
+193,"Botswana",1995,"Healthcare Access and Quality Index frontier",62.3
+193,"Botswana",2000,"Healthcare Access and Quality Index frontier",66.2
+193,"Botswana",2005,"Healthcare Access and Quality Index frontier",70.3
+193,"Botswana",2010,"Healthcare Access and Quality Index frontier",72.6
+193,"Botswana",2015,"Healthcare Access and Quality Index frontier",73.9
+194,"Lesotho",1990,"Healthcare Access and Quality Index frontier",49.1
+194,"Lesotho",1995,"Healthcare Access and Quality Index frontier",50.6
+194,"Lesotho",2000,"Healthcare Access and Quality Index frontier",53.4
+194,"Lesotho",2005,"Healthcare Access and Quality Index frontier",57.9
+194,"Lesotho",2010,"Healthcare Access and Quality Index frontier",61.8
+194,"Lesotho",2015,"Healthcare Access and Quality Index frontier",65.1
+195,"Namibia",1990,"Healthcare Access and Quality Index frontier",58
+195,"Namibia",1995,"Healthcare Access and Quality Index frontier",61.7
+195,"Namibia",2000,"Healthcare Access and Quality Index frontier",64.8
+195,"Namibia",2005,"Healthcare Access and Quality Index frontier",68
+195,"Namibia",2010,"Healthcare Access and Quality Index frontier",70.8
+195,"Namibia",2015,"Healthcare Access and Quality Index frontier",72.9
+196,"South Africa",1990,"Healthcare Access and Quality Index frontier",69.7
+196,"South Africa",1995,"Healthcare Access and Quality Index frontier",71.7
+196,"South Africa",2000,"Healthcare Access and Quality Index frontier",73
+196,"South Africa",2005,"Healthcare Access and Quality Index frontier",74.2
+196,"South Africa",2010,"Healthcare Access and Quality Index frontier",75.5
+196,"South Africa",2015,"Healthcare Access and Quality Index frontier",77.1
+197,"Swaziland",1990,"Healthcare Access and Quality Index frontier",55
+197,"Swaziland",1995,"Healthcare Access and Quality Index frontier",60.8
+197,"Swaziland",2000,"Healthcare Access and Quality Index frontier",65
+197,"Swaziland",2005,"Healthcare Access and Quality Index frontier",67.1
+197,"Swaziland",2010,"Healthcare Access and Quality Index frontier",71
+197,"Swaziland",2015,"Healthcare Access and Quality Index frontier",73.3
+198,"Zimbabwe",1990,"Healthcare Access and Quality Index frontier",56
+198,"Zimbabwe",1995,"Healthcare Access and Quality Index frontier",60.7
+198,"Zimbabwe",2000,"Healthcare Access and Quality Index frontier",63.5
+198,"Zimbabwe",2005,"Healthcare Access and Quality Index frontier",64
+198,"Zimbabwe",2010,"Healthcare Access and Quality Index frontier",63.6
+198,"Zimbabwe",2015,"Healthcare Access and Quality Index frontier",66.6
+199,"Western Sub-Saharan Africa",1990,"Healthcare Access and Quality Index frontier",46.2
+199,"Western Sub-Saharan Africa",1995,"Healthcare Access and Quality Index frontier",47.1
+199,"Western Sub-Saharan Africa",2000,"Healthcare Access and Quality Index frontier",48.1
+199,"Western Sub-Saharan Africa",2005,"Healthcare Access and Quality Index frontier",49.2
+199,"Western Sub-Saharan Africa",2010,"Healthcare Access and Quality Index frontier",50.7
+199,"Western Sub-Saharan Africa",2015,"Healthcare Access and Quality Index frontier",53.3
+200,"Benin",1990,"Healthcare Access and Quality Index frontier",42.8
+200,"Benin",1995,"Healthcare Access and Quality Index frontier",44.4
+200,"Benin",2000,"Healthcare Access and Quality Index frontier",45.8
+200,"Benin",2005,"Healthcare Access and Quality Index frontier",47.4
+200,"Benin",2010,"Healthcare Access and Quality Index frontier",48.6
+200,"Benin",2015,"Healthcare Access and Quality Index frontier",49.7
+201,"Burkina Faso",1990,"Healthcare Access and Quality Index frontier",33.1
+201,"Burkina Faso",1995,"Healthcare Access and Quality Index frontier",35
+201,"Burkina Faso",2000,"Healthcare Access and Quality Index frontier",37.5
+201,"Burkina Faso",2005,"Healthcare Access and Quality Index frontier",40.2
+201,"Burkina Faso",2010,"Healthcare Access and Quality Index frontier",43.1
+201,"Burkina Faso",2015,"Healthcare Access and Quality Index frontier",45.2
+202,"Cameroon",1990,"Healthcare Access and Quality Index frontier",48.9
+202,"Cameroon",1995,"Healthcare Access and Quality Index frontier",49.7
+202,"Cameroon",2000,"Healthcare Access and Quality Index frontier",50.8
+202,"Cameroon",2005,"Healthcare Access and Quality Index frontier",53.3
+202,"Cameroon",2010,"Healthcare Access and Quality Index frontier",56.8
+202,"Cameroon",2015,"Healthcare Access and Quality Index frontier",60.4
+203,"Cape Verde",1990,"Healthcare Access and Quality Index frontier",48.3
+203,"Cape Verde",1995,"Healthcare Access and Quality Index frontier",49.9
+203,"Cape Verde",2000,"Healthcare Access and Quality Index frontier",54.6
+203,"Cape Verde",2005,"Healthcare Access and Quality Index frontier",61
+203,"Cape Verde",2010,"Healthcare Access and Quality Index frontier",64.8
+203,"Cape Verde",2015,"Healthcare Access and Quality Index frontier",67.6
+204,"Chad",1990,"Healthcare Access and Quality Index frontier",38.1
+204,"Chad",1995,"Healthcare Access and Quality Index frontier",39.2
+204,"Chad",2000,"Healthcare Access and Quality Index frontier",40.3
+204,"Chad",2005,"Healthcare Access and Quality Index frontier",43.1
+204,"Chad",2010,"Healthcare Access and Quality Index frontier",45.7
+204,"Chad",2015,"Healthcare Access and Quality Index frontier",47.5
+205,"Cote d'Ivoire",1990,"Healthcare Access and Quality Index frontier",46.3
+205,"Cote d'Ivoire",1995,"Healthcare Access and Quality Index frontier",47.4
+205,"Cote d'Ivoire",2000,"Healthcare Access and Quality Index frontier",48.6
+205,"Cote d'Ivoire",2005,"Healthcare Access and Quality Index frontier",49.2
+205,"Cote d'Ivoire",2010,"Healthcare Access and Quality Index frontier",49.9
+205,"Cote d'Ivoire",2015,"Healthcare Access and Quality Index frontier",51.5
+206,"The Gambia",1990,"Healthcare Access and Quality Index frontier",45.2
+206,"The Gambia",1995,"Healthcare Access and Quality Index frontier",45.7
+206,"The Gambia",2000,"Healthcare Access and Quality Index frontier",46.7
+206,"The Gambia",2005,"Healthcare Access and Quality Index frontier",47.6
+206,"The Gambia",2010,"Healthcare Access and Quality Index frontier",48.3
+206,"The Gambia",2015,"Healthcare Access and Quality Index frontier",49
+207,"Ghana",1990,"Healthcare Access and Quality Index frontier",49.8
+207,"Ghana",1995,"Healthcare Access and Quality Index frontier",51.7
+207,"Ghana",2000,"Healthcare Access and Quality Index frontier",54.6
+207,"Ghana",2005,"Healthcare Access and Quality Index frontier",57.9
+207,"Ghana",2010,"Healthcare Access and Quality Index frontier",61.1
+207,"Ghana",2015,"Healthcare Access and Quality Index frontier",64.2
+208,"Guinea",1990,"Healthcare Access and Quality Index frontier",40.4
+208,"Guinea",1995,"Healthcare Access and Quality Index frontier",42.4
+208,"Guinea",2000,"Healthcare Access and Quality Index frontier",43.7
+208,"Guinea",2005,"Healthcare Access and Quality Index frontier",44.9
+208,"Guinea",2010,"Healthcare Access and Quality Index frontier",46
+208,"Guinea",2015,"Healthcare Access and Quality Index frontier",47.1
+209,"Guinea-Bissau",1990,"Healthcare Access and Quality Index frontier",40.8
+209,"Guinea-Bissau",1995,"Healthcare Access and Quality Index frontier",42.9
+209,"Guinea-Bissau",2000,"Healthcare Access and Quality Index frontier",44.6
+209,"Guinea-Bissau",2005,"Healthcare Access and Quality Index frontier",45.7
+209,"Guinea-Bissau",2010,"Healthcare Access and Quality Index frontier",46.8
+209,"Guinea-Bissau",2015,"Healthcare Access and Quality Index frontier",47.8
+210,"Liberia",1990,"Healthcare Access and Quality Index frontier",43.9
+210,"Liberia",1995,"Healthcare Access and Quality Index frontier",40.1
+210,"Liberia",2000,"Healthcare Access and Quality Index frontier",41
+210,"Liberia",2005,"Healthcare Access and Quality Index frontier",43.9
+210,"Liberia",2010,"Healthcare Access and Quality Index frontier",45.4
+210,"Liberia",2015,"Healthcare Access and Quality Index frontier",47.3
+211,"Mali",1990,"Healthcare Access and Quality Index frontier",35.1
+211,"Mali",1995,"Healthcare Access and Quality Index frontier",37.3
+211,"Mali",2000,"Healthcare Access and Quality Index frontier",39.3
+211,"Mali",2005,"Healthcare Access and Quality Index frontier",41.4
+211,"Mali",2010,"Healthcare Access and Quality Index frontier",43.3
+211,"Mali",2015,"Healthcare Access and Quality Index frontier",44.8
+212,"Mauritania",1990,"Healthcare Access and Quality Index frontier",46.6
+212,"Mauritania",1995,"Healthcare Access and Quality Index frontier",47.5
+212,"Mauritania",2000,"Healthcare Access and Quality Index frontier",48.5
+212,"Mauritania",2005,"Healthcare Access and Quality Index frontier",49.3
+212,"Mauritania",2010,"Healthcare Access and Quality Index frontier",50.7
+212,"Mauritania",2015,"Healthcare Access and Quality Index frontier",53.4
+213,"Niger",1990,"Healthcare Access and Quality Index frontier",32.6
+213,"Niger",1995,"Healthcare Access and Quality Index frontier",33.5
+213,"Niger",2000,"Healthcare Access and Quality Index frontier",34.3
+213,"Niger",2005,"Healthcare Access and Quality Index frontier",35.3
+213,"Niger",2010,"Healthcare Access and Quality Index frontier",36.4
+213,"Niger",2015,"Healthcare Access and Quality Index frontier",38.2
+214,"Nigeria",1990,"Healthcare Access and Quality Index frontier",48.2
+214,"Nigeria",1995,"Healthcare Access and Quality Index frontier",48.9
+214,"Nigeria",2000,"Healthcare Access and Quality Index frontier",49.7
+214,"Nigeria",2005,"Healthcare Access and Quality Index frontier",52.1
+214,"Nigeria",2010,"Healthcare Access and Quality Index frontier",57.1
+214,"Nigeria",2015,"Healthcare Access and Quality Index frontier",61.4
+215,"Sao Tome and Principe",1990,"Healthcare Access and Quality Index frontier",48.1
+215,"Sao Tome and Principe",1995,"Healthcare Access and Quality Index frontier",49
+215,"Sao Tome and Principe",2000,"Healthcare Access and Quality Index frontier",49.8
+215,"Sao Tome and Principe",2005,"Healthcare Access and Quality Index frontier",51.5
+215,"Sao Tome and Principe",2010,"Healthcare Access and Quality Index frontier",55
+215,"Sao Tome and Principe",2015,"Healthcare Access and Quality Index frontier",58.8
+216,"Senegal",1990,"Healthcare Access and Quality Index frontier",43.5
+216,"Senegal",1995,"Healthcare Access and Quality Index frontier",45.1
+216,"Senegal",2000,"Healthcare Access and Quality Index frontier",46.4
+216,"Senegal",2005,"Healthcare Access and Quality Index frontier",47.7
+216,"Senegal",2010,"Healthcare Access and Quality Index frontier",48.5
+216,"Senegal",2015,"Healthcare Access and Quality Index frontier",49.4
+217,"Sierra Leone",1990,"Healthcare Access and Quality Index frontier",41.3
+217,"Sierra Leone",1995,"Healthcare Access and Quality Index frontier",42.6
+217,"Sierra Leone",2000,"Healthcare Access and Quality Index frontier",43
+217,"Sierra Leone",2005,"Healthcare Access and Quality Index frontier",45.2
+217,"Sierra Leone",2010,"Healthcare Access and Quality Index frontier",47
+217,"Sierra Leone",2015,"Healthcare Access and Quality Index frontier",48.9
+218,"Togo",1990,"Healthcare Access and Quality Index frontier",45.5
+218,"Togo",1995,"Healthcare Access and Quality Index frontier",46.7
+218,"Togo",2000,"Healthcare Access and Quality Index frontier",47.8
+218,"Togo",2005,"Healthcare Access and Quality Index frontier",48.5
+218,"Togo",2010,"Healthcare Access and Quality Index frontier",49.2
+218,"Togo",2015,"Healthcare Access and Quality Index frontier",50.3
+298,"American Samoa",1990,"Healthcare Access and Quality Index frontier",74
+298,"American Samoa",1995,"Healthcare Access and Quality Index frontier",75.2
+298,"American Samoa",2000,"Healthcare Access and Quality Index frontier",77.1
+298,"American Samoa",2005,"Healthcare Access and Quality Index frontier",77.3
+298,"American Samoa",2010,"Healthcare Access and Quality Index frontier",77.3
+298,"American Samoa",2015,"Healthcare Access and Quality Index frontier",77.4
+305,"Bermuda",1990,"Healthcare Access and Quality Index frontier",86.9
+305,"Bermuda",1995,"Healthcare Access and Quality Index frontier",88.2
+305,"Bermuda",2000,"Healthcare Access and Quality Index frontier",89.2
+305,"Bermuda",2005,"Healthcare Access and Quality Index frontier",90.2
+305,"Bermuda",2010,"Healthcare Access and Quality Index frontier",90.9
+305,"Bermuda",2015,"Healthcare Access and Quality Index frontier",91.1
+349,"Greenland",1990,"Healthcare Access and Quality Index frontier",72.5
+349,"Greenland",1995,"Healthcare Access and Quality Index frontier",73.3
+349,"Greenland",2000,"Healthcare Access and Quality Index frontier",74.8
+349,"Greenland",2005,"Healthcare Access and Quality Index frontier",75.1
+349,"Greenland",2010,"Healthcare Access and Quality Index frontier",76.8
+349,"Greenland",2015,"Healthcare Access and Quality Index frontier",81
+351,"Guam",1990,"Healthcare Access and Quality Index frontier",81.7
+351,"Guam",1995,"Healthcare Access and Quality Index frontier",84
+351,"Guam",2000,"Healthcare Access and Quality Index frontier",85.7
+351,"Guam",2005,"Healthcare Access and Quality Index frontier",87.4
+351,"Guam",2010,"Healthcare Access and Quality Index frontier",88.8
+351,"Guam",2015,"Healthcare Access and Quality Index frontier",89.8
+376,"Northern Mariana Islands",1990,"Healthcare Access and Quality Index frontier",82.2
+376,"Northern Mariana Islands",1995,"Healthcare Access and Quality Index frontier",84
+376,"Northern Mariana Islands",2000,"Healthcare Access and Quality Index frontier",86.5
+376,"Northern Mariana Islands",2005,"Healthcare Access and Quality Index frontier",87.7
+376,"Northern Mariana Islands",2010,"Healthcare Access and Quality Index frontier",87.4
+376,"Northern Mariana Islands",2015,"Healthcare Access and Quality Index frontier",87
+385,"Puerto Rico",1990,"Healthcare Access and Quality Index frontier",81.7
+385,"Puerto Rico",1995,"Healthcare Access and Quality Index frontier",84
+385,"Puerto Rico",2000,"Healthcare Access and Quality Index frontier",86
+385,"Puerto Rico",2005,"Healthcare Access and Quality Index frontier",87.8
+385,"Puerto Rico",2010,"Healthcare Access and Quality Index frontier",88.9
+385,"Puerto Rico",2015,"Healthcare Access and Quality Index frontier",89.6
+422,"Virgin Islands, U.S.",1990,"Healthcare Access and Quality Index frontier",81.2
+422,"Virgin Islands, U.S.",1995,"Healthcare Access and Quality Index frontier",84.8
+422,"Virgin Islands, U.S.",2000,"Healthcare Access and Quality Index frontier",87.2
+422,"Virgin Islands, U.S.",2005,"Healthcare Access and Quality Index frontier",88.3
+422,"Virgin Islands, U.S.",2010,"Healthcare Access and Quality Index frontier",89.2
+422,"Virgin Islands, U.S.",2015,"Healthcare Access and Quality Index frontier",89.9
+435,"South Sudan",1990,"Healthcare Access and Quality Index frontier",38
+435,"South Sudan",1995,"Healthcare Access and Quality Index frontier",39
+435,"South Sudan",2000,"Healthcare Access and Quality Index frontier",41.5
+435,"South Sudan",2005,"Healthcare Access and Quality Index frontier",43.3
+435,"South Sudan",2010,"Healthcare Access and Quality Index frontier",45.1
+435,"South Sudan",2015,"Healthcare Access and Quality Index frontier",46.4
+522,"Sudan",1990,"Healthcare Access and Quality Index frontier",46.6
+522,"Sudan",1995,"Healthcare Access and Quality Index frontier",47.6
+522,"Sudan",2000,"Healthcare Access and Quality Index frontier",48.8
+522,"Sudan",2005,"Healthcare Access and Quality Index frontier",50.2
+522,"Sudan",2010,"Healthcare Access and Quality Index frontier",52.9
+522,"Sudan",2015,"Healthcare Access and Quality Index frontier",56.4
